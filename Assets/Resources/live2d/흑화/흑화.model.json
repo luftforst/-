@@ -1,0 +1,69 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"흑화.moc",
+	"textures":[
+		"흑화.1024/texture_00.png",
+		"흑화.1024/texture_01.png",
+		"흑화.1024/texture_02.png",
+		"흑화.1024/texture_03.png"
+	],
+	"hit_areas":
+	[
+		{"name":"head", "id":"D_FACE.00"},
+		{"name":"body", "id":"D_TOP2.00"},
+		{"name":"thigh", "id":"D_LACE2.00"}
+	],
+	"motions":{
+		"idle":
+		[
+			{"file":"motions/idle_2.mtn"},
+			{"file":"motions/idle_3.mtn"},
+			{"file":"motions/shake_2.mtn"}
+		],
+		"refuse":
+		[
+			{ "file":"motions/refuse.mtn"}
+		],
+		"serious":
+		[
+			{ "file":"motions/serious_1.mtn"},
+			{ "file":"motions/serious_2.mtn"},
+			{ "file":"motions/serious_3.mtn"}
+		],
+		"smile":
+		[
+			{ "file":"motions/smile.mtn"},
+			{ "file":"motions/happy.mtn"},
+			{ "file":"motions/smile_shake.mtn"},
+			{ "file":"motions/shame.mtn"}
+		],
+		"angry":
+		[
+			{ "file":"motions/angry.mtn"},
+			{ "file":"motions/doubt.mtn"}
+		],
+		"shame":
+		[
+			{ "file":"motions/shame.mtn"}
+		],
+		"talk":
+		[
+			{ "file":"motions/talk_1.mtn"},
+			{ "file":"motions/talk_2.mtn"},
+			{ "file":"motions/talk_3.mtn"},
+			{ "file":"motions/talk_4.mtn"},
+			{ "file":"motions/talk_5.mtn"},
+			{ "file":"motions/talk_6.mtn"}
+		],
+		"sad":
+		[
+			{ "file":"motions/sad.mtn"}
+		],
+		"surprise":
+		[
+			{ "file":"motions/surprise.mtn"}
+		]
+	},
+	"physics":"흑화.physics.json",
+	"pose":"흑화.pose.json"
+}

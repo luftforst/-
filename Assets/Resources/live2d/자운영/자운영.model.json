@@ -1,0 +1,57 @@
+{
+    "version": "Sample 1.0.0",
+    "model": "자운영.moc",
+    "textures": [
+        "자운영.1024/texture_00.png",
+        "자운영.1024/texture_01.png",
+        "자운영.1024/texture_02.png",
+        "자운영.1024/texture_03.png",
+        "자운영.1024/texture_04.png",
+        "자운영.1024/texture_05.png"
+    ],
+    "hit_areas": [
+        { "name": "head", "id": "D_FACE.00" }, 
+        { "name": "breast", "id": "D_BUST.00" },
+        { "name": "hand_right", "id": "D_ARM_RIGHT2.00" }, 
+        { "name": "hand_left", "id": "D_ARM_LEFT2.00" },
+		{ "name": "skirt", "id": "D_SKIRT.01" },
+		{ "name": "tap_shoulder_left", "id": "D_ARM_LEFT1.00" },
+		{ "name": "tap_shoulder_right", "id": "D_ARM_RIGHT1.00" }
+    ],
+    "motions": {
+        "idle": [
+            { "file": "motions/idle_1.mtn" },
+            { "file": "motions/idle_2.mtn" }
+        ],
+        "serious": [
+            { "file": "motions/serious_1.mtn" },
+            { "file": "motions/serious_2.mtn" },
+            { "file": "motions/serious_3.mtn" }
+        ],
+        "smile": [
+            { "file": "motions/smile_shake.mtn" },
+            { "file": "motions/smile_1.mtn" }
+        ],
+        "angry": [
+            { "file": "motions/angry.mtn" },
+            { "file": "motions/doubt.mtn" }
+        ],
+        "shame": [
+            { "file": "motions/shame_1.mtn" }
+        ],
+        "talk": [
+            { "file": "motions/talk_1.mtn" },
+            { "file": "motions/talk_4.mtn" },
+            { "file": "motions/talk_5.mtn" },
+            { "file": "motions/talk_6.mtn" }
+        ],
+        "shake":[
+			{ "file": "motions/shake_2.mtn" }
+		],
+		"tap_body":[
+			{"file":"motions/bust.mtn"}
+		]
+    },
+	"physics":"자운영.physics.json",
+	"pose":"자운영.pose.json"
+}

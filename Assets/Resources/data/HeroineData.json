@@ -1,0 +1,178 @@
+{
+	"Heroine" : 
+	[
+		{
+			"index" : 0,
+			"name" : "자운영",
+			"TouchPoint" : 
+			[
+				{
+					"name" : "왼손",
+					"point" : 2,
+					"hit_area_name" : "hand_left",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "가슴",
+					"point" : 8,
+					"hit_area_name" : "breast",
+					"tap_motion" : "tap_body"
+				},
+				{
+					"name" : "얼굴",
+					"point" : -48,
+					"hit_area_name" : "head",
+					"tap_motion" : "angry"
+				},
+				{
+					"name" : "왼쪽어깨",
+					"point" : -6,
+					"hit_area_name" : "tap_shoulder_left",
+					"tap_motion" : "serious"
+				},
+				{
+					"name" : "오른쪽어깨",
+					"point" : -6,
+					"hit_area_name" : "tap_shoulder_right",
+					"tap_motion" : "serious"
+				}
+			]
+		},
+		{
+			"index" : 1,
+			"name" : "흑화",
+			"TouchPoint" : 
+			[
+				{
+					"name" : "머리",
+					"point" : 8,
+					"hit_area_name" : "head",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "왼쪽허벅지",
+					"point" : -486,
+					"hit_area_name" : "thigh",
+					"tap_motion" : "angry"
+				},
+				{
+					"name" : "가슴",
+					"point" : -486,
+					"hit_area_name" : "body",
+					"tap_motion" : "refuse"
+				},
+			]
+		},
+		{
+			"index" : 2,
+			"name" : "을씨년",
+			"TouchPoint" : 
+			[
+				{
+					"name" : "얼굴",
+					"point" : 8,
+					"hit_area_name" : "head",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "가슴",
+					"point" : 8,
+					"hit_area_name" : "breast",
+					"tap_motion" : "tap_body"
+				},
+				{
+					"name" : "몸통전체",
+					"point" : 8,
+					"hit_area_name" : "body",
+					"tap_motion" : "shame"
+				},
+				{
+					"name" : "캐릭터외1",
+					"point" : -486,
+					"hit_area_name" : "back_left",
+					"tap_motion" : "angry"
+				},
+				{
+					"name" : "캐릭터외2",
+					"point" : -486,
+					"hit_area_name" : "back_right",
+					"tap_motion" : "angry"
+				},
+				{
+					"name" : "캐릭터외3",
+					"point" : -486,
+					"hit_area_name" : "back_up",
+					"tap_motion" : "angry"
+				},
+			]
+		},
+		{
+			"index" : 3,
+			"name" : "안대례",
+			"TouchPoint" : 
+			[
+				{
+					"name" : "거시기",
+					"point" : -1,
+					"hit_area_name" : "center",
+					"tap_motion" : "angry"
+				},
+			]
+		},
+		{
+			"index" : 4,
+			"name" : "이왕",
+			"TouchPoint" : 
+			[
+				{
+					"name" : "왼쪽팔뚝",
+					"point" : 4,
+					"hit_area_name" : "arm_left",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "오른쪽팔뚝",
+					"point" : 4,
+					"hit_area_name" : "arm_right",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "허벅지",
+					"point" : 8,
+					"hit_area_name" : "leg",
+					"tap_motion" : "smile"
+				},
+				{
+					"name" : "복근",
+					"point" : 8,
+					"hit_area_name" : "body",
+					"tap_motion" : "shame"
+				},
+				{
+					"name" : "머리",
+					"point" : -8,
+					"hit_area_name" : "hair",
+					"tap_motion" : "serious"
+				},
+				{
+					"name" : "얼굴",
+					"point" : -6,
+					"hit_area_name" : "head",
+					"tap_motion" : "serious"
+				},
+				{
+					"name" : "왼쪽어깨",
+					"point" : -4,
+					"hit_area_name" : "tap_shoulder_left",
+					"tap_motion" : "angry"
+				},
+				{
+					"name" : "오른쪽어깨",
+					"point" : -4,
+					"hit_area_name" : "tap_shoulder_right",
+					"tap_motion" : "angry"
+				},
+			]
+		},
+	]
+}

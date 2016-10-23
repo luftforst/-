@@ -1,0 +1,68 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"안대례.moc",
+	"textures":[
+		"안대례.1024/texture_00.png",
+		"안대례.1024/texture_01.png",
+		"안대례.1024/texture_02.png",
+		"안대례.1024/texture_03.png",
+		"안대례.1024/texture_04.png"
+	],
+	"hit_areas": 
+	[
+        { "name": "center", "id": "D_CENTER.00" }
+    ],
+	"motions":
+	{
+		"idle":
+		[
+			{"file":"motions/idle_1.mtn"},
+			{"file":"motions/idle_2.mtn"},
+			{"file":"motions/idle_3.mtn"}
+		],
+        "serious": 
+		[
+            {"file":"motions/angry.mtn"},
+			{"file":"motions/doubt.mtn"}
+        ],
+        "smile": 
+		[
+			{"file":"motions/happy.mtn"},
+            {"file":"motions/smile.mtn"},
+			{"file":"motions/shame.mtn"},
+			{"file":"motions/shame2.mtn"},
+			{"file":"motions/shame3.mtn"}
+        ],
+        "angry": 
+		[
+            { "file": "motions/angry.mtn" },
+            { "file": "motions/doubt.mtn" }
+        ],
+        "shame": 
+		[
+            { "file": "motions/shame.mtn" }
+        ],
+        "talk": 
+		[
+            {"file":"motions/talk_1.mtn"},
+			{"file":"motions/talk_3.mtn"},
+            { "file": "motions/talk_4.mtn" },
+            { "file": "motions/talk_6.mtn" }
+        ],
+		"refuse":
+		[
+			{"file":"motions/shake_1.mtn"},	
+			{"file":"motions/refuse.mtn"}
+		],
+		"sad":
+		[
+			{"file":"motions/sad.mtn"}
+		],
+		"suprise":
+		[
+			{"file":"motions/surprise.mtn"}
+		],
+	"physics":"안대례.physics.json",
+	"pose":"안대례.pose.json"
+	}
+}

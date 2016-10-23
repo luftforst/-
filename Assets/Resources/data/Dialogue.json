@@ -1,0 +1,6184 @@
+{		
+	"StageData" : 
+	[
+		{
+			"index" : 0,
+			"love_point" : 5,
+			"touch_point_max" : 600,
+			"sound" : "숲속의아침_bgm",
+			"sound_effect" : "button",
+			"Dialog" : 
+			[
+				{
+					"type" : 0,
+					"index" : 0,
+					"speaker" : "",
+					"background_name" : "마루",
+					"expression" : "",
+					"dialog" : "터치하시오."
+				},
+				{
+					"type" : 0,
+					"index" : 1,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "마루",
+					"dialog" : "대감마님 나가신다!"
+				},
+				{
+					"type" : 0,
+					"index" : 2,
+					"speaker" : "천민",
+					"background_name" : "마루",
+					"dialog" : "다녀오세요 대감마님."
+				},
+				{
+					"type" : 0,
+					"index" : 3,
+					"speaker" : "",
+					"background_name" : "마루",
+					"dialog" : "쾅"
+				},
+				{
+					"type" : 0,
+					"index" : 4,
+					"speaker" : "",
+					"background_name" : "마루",
+					"dialog" : "큰 소리를 내며 대문이 닫혔다."
+				},
+				{
+					"type" : 0,
+					"index" : 5,
+					"speaker" : "",
+					"background_name" : "마루",
+					"dialog" : "노비들은 각자 하던 일을 마저 하기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 6,
+					"speaker" : "",
+					"background_name" : "마루",
+					"dialog" : "나는 빗자루를 들고 마당을 쓸었다."
+				},
+				{
+					"type" : 0,
+					"index" : 7,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "마루",
+					"dialog" : "배웅을 마친 마님이 나를 쳐다보며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 8,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "마루",
+					"expression" : "",
+					"dialog" : "아가. 안채가 많이 지저분하더구나."
+				},
+				{
+					"type" : 0,
+					"index" : 9,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "마루",
+					"dialog" : "어이쿠, 마님. 빨리 치우겠습니다."
+				},
+				{
+					"type" : 0,
+					"index" : 10,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "마루",
+					"dialog" : "혼자 할 수 있겠지?"
+				},
+				{	
+					"type" : 0,
+					"index" : 11,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "마루",
+					"dialog" : "아이고, 그럼요 마님. 먼지 한 톨 없이 깨끗하게 치워놓겠습니다."
+				},
+				{
+					"type" : 0,
+					"index" : 12,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "드디어 마님 방만 남았군!"
+				},
+				{
+					"type" : 0,
+					"index" : 13,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "나는 마님 방으로 들어가 방 안 구석구석을 청소했다."
+				},
+				{
+					"type" : 0,
+					"index" : 14,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "마님의 방은 언제나 그렇듯 단정하게 정돈되어있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 15,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "역시 마님은 이 시대 최고의 현모양처야!"
+				},
+				{
+					"type" : 0,
+					"index" : 16,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "잠시 후...",
+					"sound" : "노을_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 17,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "발에 뭔가 채였다."
+				},
+				{
+					"type" : 0,
+					"index" : 18,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "이게 웬 열쇠꾸러미지?"
+				},
+				{
+					"type" : 0,
+					"index" : 19,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "마님께 가져다 드려야겠다. "
+				},
+				{
+					"type" : 0,
+					"index" : 20,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "나는 열쇠를 가슴팍에 넣고 청소를 마저 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 21,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "어..? 이게 무슨 냄새지?"
+				},
+				{
+					"type" : 0,
+					"index" : 22,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "병풍 뒤에서 달콤한 향이 퍼졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 23,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "가볼까?"
+				},
+				{
+					"type" : 1,
+					"index" : 24,
+					"background_name" : "마님_방",
+					"dialog" : "향을 따라가본다",
+					"select_type" : ,
+					"change" : 29
+				},
+				{
+					"type" : 1,
+					"index" : 25,
+					"background_name" : "마님_방",
+					"dialog" : "무시하고 청소를 마저 한다.",
+					"select_type" : ,
+					"change" : 26
+				},
+				{
+					"type" : 0,
+					"index" : 26,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "아냐. 빨리 청소를 마쳐야 마님이 기뻐하실 거야."
+				},
+				{
+					"type" : 0,
+					"index" : 27,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "나는 병풍 뒤에서 나는 향냄새를 무시하고 청소에 열중했다."
+				},
+				{
+					"type" : 0,
+					"index" : 28,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "앗.. 혹시 향유를 흘리신 게 아닐까? 향유에서 나는 향이라면 치워야하는데..."
+				},
+				{
+					"type" : 0,
+					"index" : 29,
+					"speaker" : "",
+					"background_name" : "마님_방",
+					"dialog" : "나는 향기로운 향에 이끌려 병풍 뒤로 향했다."
+				},
+				{
+					"type" : 0,
+					"index" : 30,
+					"speaker" : "천민",
+					"background_name" : "마님_방",
+					"dialog" : "아니, 이게 뭐지?!"
+				},
+				{
+					"type" : 0,
+					"index" : 31,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "병풍 뒤에는 작은 문이 나있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 32,
+					"speaker" : "천민",
+					"background_name" : "비밀의_문",
+					"dialog" : "벽장인가?"
+				},
+				{
+					"type" : 0,
+					"index" : 33,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "나는 그 문을 자세히 살폈다."
+				},
+				{
+					"type" : 0,
+					"index" : 34,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "벽장처럼 생긴 문은 빨간 창호지가 발라져있었고, 자물쇠로 굳게 잠겨져있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 35,
+					"speaker" : "천민",
+					"background_name" : "비밀의_문",
+					"dialog" : "벽장이라면 청소를 해야 할 텐데... 어떻게 열..."
+				},
+				{
+					"type" : 0,
+					"index" : 36,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "나는 가슴에 넣어놨던 열쇠를 꺼냈다."
+				},
+				{
+					"type" : 0,
+					"index" : 37,
+					"speaker" : "천민",
+					"background_name" : "비밀의_문",
+					"dialog" : "혹시... 이 열쇠가 아닐까?"
+				},
+				{
+					"type" : 0,
+					"index" : 38,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "나는 열쇠꾸러미를 살폈다."
+				},
+				{
+					"type" : 0,
+					"index" : 39,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "이 열쇠 중 어떤 열쇠로 열어야 할까?"
+				},
+				{
+					"type" : 2,
+					"index" : 40,
+					"background_name" : "비밀의_문",
+					"event" : "key"
+				},
+				{
+					"type" : 0,
+					"index" : 41,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "끼익"
+				},
+				{
+					"type" : 0,
+					"index" : 42,
+					"speaker" : "천민",
+					"background_name" : "비밀의_문",
+					"dialog" : "!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 43,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "문이 열렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 44,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "나는 조심스레 방에 들어가려했다."
+				},
+				{
+					"type" : 0,
+					"index" : 45,
+					"speaker" : "",
+					"background_name" : "비밀의_문",
+					"dialog" : "하지만 그 순간..."
+				},
+				{
+					"type" : 0,
+					"index" : 46,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의_문",
+					"dialog" : "봐 버렸네?"
+				},
+				{
+					"type" : 0,
+					"index" : 47,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의_문",
+					"dialog" : "나는 그 때 까지 그 문이 나를 이렇게 만들 줄은 상상조차 하지 못했다."
+				},
+				{
+					"type" : 4,
+					"index" : 48,
+					"background_name" : "비밀의_문",
+				},
+			]
+		},
+		{
+			"index" : 1,
+			"love_point" : 5,
+			"touch_point_max" : 600,
+			"sound" : "하늘그림_bgm",
+			"sound_effect" : "touch",
+			"Dialog" : 
+			[
+				{
+					"type" : 0,
+					"index" : 0,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "대화창을 터치하세요"
+				},
+				{
+					"type" : 0,
+					"index" : 1,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "아직도 정신을 못 차리네. 깨우거라."
+ 				},
+				{
+					"type" : 0,
+					"index" : 2,
+					"speaker" : "개똥, 말똥",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "예!!"
+				},
+				{
+					"type" : 0,
+					"index" : 3,
+					"speaker" : "천민",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 4,
+					"speaker" : "",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "머리에서 쏟아지는 차가운 물줄기에 정신을 차렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 5,
+					"speaker" : "천민",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "아니, 마..마님..! 너희들..!!"
+				},
+				{
+					"type" : 0,
+					"index" : 6,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "내 앞에는 마님이 의자에 앉은 채 웃으며 나를 보고있었고, 그 옆에는 함께 일하는 노비들인 개똥이와 말똥이, 그리고 소똥이가  있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 7,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 일어나려 했지만, 의자에 몸이 묶여있어 옴짝달싹 할 수 없는 상태였다."
+				},
+				{
+					"type" : 0,
+					"index" : 8,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "왜...왜 저를... 묶어놓으신...."
+				},
+				{
+					"type" : 0,
+					"index" : 9,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "이 방을 발견한 남자는 네가 처음이란다, 아가."
+				},
+				{
+					"type" : 0,
+					"index" : 10,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "...방?"
+				},
+				{
+					"type" : 0,
+					"index" : 11,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 그제서야 주위를 살폈다."
+				},
+				{
+					"type" : 0,
+					"index" : 12,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "벽에 창이 있었지만 저녁인지 밖은 어둑어둑했다."
+				},
+				{
+					"type" : 0,
+					"index" : 13,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "방 안에 있는 빛이라고는 붉은 양초에서 나오는 빛밖에는 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 14,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "벽에는 용도를 알 수 없는 도구들이 잔뜩 걸려있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 15,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마...마님... 이놈에게 대체 왜 이러시는 겁니까...!!"
+				},
+				{
+					"type" : 0,
+					"index" : 16,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "내 말을 들은 마님은 웃으며 나에게 다가와 내 턱을 잡고 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 17,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "내 수청을 들거라."
+				},
+				{
+					"type" : 0,
+					"index" : 18,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "수... 수청이라니요 마님!! 무슨 말씀을 하시는겁니까!! 대감마님께서 계신데 무슨..!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 19,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "지금은 없지 않니. 어때, 수청을 들겠느냐?"
+				},
+				{
+					"type" : 0,
+					"index" : 20,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "수청이라니..."
+				},
+				{
+					"type" : 0,
+					"index" : 21,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "뭐라고 대답을 해야 할까?"
+				},
+				{
+					"type" : 1,
+					"index" : 22,
+					"background_name" : "비밀의방",
+					"dialog" : "수청을 든다",
+					"change" : 112
+				},
+				{
+					"type" : 1,
+					"index" : 23,
+					"background_name" : "비밀의방",
+					"dialog" : "싫다",
+					"change" : 24
+				},
+				{
+					"type" : 0,
+					"index" : 24,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "싫습니다!!"
+				},
+				{
+					"type" : 0,
+					"index" : 25,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "serious",
+					"dialog" : "싫다... "
+				},
+				{
+					"type" : 0,
+					"index" : 26,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마님은 나를 바라보다 다시 의자에 앉았다."
+				},
+				{
+					"type" : 0,
+					"index" : 27,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "밧줄을 풀어 주거라."
+				},
+				{
+					"type" : 0,
+					"index" : 28,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "예, 마님. 밧줄을 풀거라!"
+				},
+				{
+					"type" : 0,
+					"index" : 29,
+					"speaker" : "",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "소똥이가 크게 외치자 개똥이와 말똥이가 다가와 내 몸에 묶여있던 밧줄을 풀었다."
+				},
+				{
+					"type" : 0,
+					"index" : 30,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "밧줄이 모두 풀어지자 마님은 만족스러운 표정으로 나에게 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 31,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "자, 이제 바지를 벗어 보거라."
+				},
+				{
+					"type" : 0,
+					"index" : 32,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "...예?"
+				},
+				{
+					"type" : 0,
+					"index" : 33,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 귀를 의심했다."
+				},
+				{
+					"type" : 0,
+					"index" : 34,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "조신하신 마님 입에서 그런 숭한 말이 나올 리 없었기 때문이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 35,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "serious",
+					"dialog" : "바지를 벗어보래도?"
+				},
+				{
+					"type" : 1,
+					"index" : 36,
+					"background_name" : "비밀의방",
+					"dialog" : "바지를 내린다",
+					"type" : ,
+					"change" : 38
+				},
+				{
+					"type" : 1,
+					"index" : 37,
+					"background_name" : "비밀의방",
+					"dialog" : "바지를 내리지 않고 버틴다",
+					"type" : ,
+					"change" : 40
+				},
+				{
+					"type" : 0,
+					"index" : 38,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 쭈뼛쭈뼛 바지를 내렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 39,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "착한 아이구나."
+				},
+				{
+					"type" : 0,
+					"index" : 40,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "그게 무슨... 싫습니다! 대체 저에게 왜이러십니까 마님..."
+				},
+				{
+					"type" : 0,
+					"index" : 41,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 비굴한 목소리로 말했지만, 마님은 들은 채도 하지 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 42,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "벗기거라."
+				},
+				{
+					"type" : 0,
+					"index" : 43,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "예, 마님. 바지를 벗기거라!"
+				},
+				{
+					"type" : 0,
+					"index" : 44,
+					"speaker" : "",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "소똥이의 말이 끝나기가 무섭게, 개똥이와 말똥이가 달려들어 내 바지를 잡아 내리려 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 45,
+					"speaker" : "천민",
+					"background_name" : "비밀의방",
+					"dialog" : "이거... 놔앗...!! 너희들 대체 왜 이러는 거야...!!"
+				},
+				{
+					"type" : 0,
+					"index" : 46,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 바지를 붙잡고 버텼지만 장정 둘의 힘을 이기기에는 무리였다."
+				},
+				{
+					"type" : 0,
+					"index" : 47,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "결국 바지는 바닥으로 떨어졌고, 나는 속고의 차림이 됐다."
+				},
+				{
+					"type" : 0,
+					"index" : 48,
+					"speaker" : "",
+					"character" : "자운영",
+					"expression" : "smile",
+					"background_name" : "비밀의방",
+					"dialog" : "마님은 속고의 차림의 나를 보며 미소 지었다."
+				},
+				{
+					"type" : 0,
+					"index" : 49,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "자, 그럼 시작해볼까?"
+				},
+				{
+					"type" : 0,
+					"index" : 50,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "무... 무엇을..."
+				},
+				{
+					"type" : 0,
+					"index" : 51,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "아가 네 이름을 써보렴. 엉덩이로."
+				},
+				{
+					"type" : 0,
+					"index" : 52,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "예...예에??!!"
+				},
+				{
+					"type" : 0,
+					"index" : 53,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 머뭇거리며 가만히 서있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 54,
+					"speaker" : "",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "하지만 마님과 눈이 마주치자 몸이 움츠러들었다."
+				},
+				{
+					"type" : 0,
+					"index" : 55,
+					"speaker" : "",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "나를 쳐다보는 시선이 무언의 압박으로 느껴졌기 때문이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 56,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "조신하다고 생각했던 마님이... 이 시대 최고의 현모양처라고 생각했던 마님이 이런 분이셨다니..."
+				},
+				{
+					"type" : 0,
+					"index" : 57,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 눈을 질끈 감고 뒤를 돌아 엉덩이를 움직였다."
+				},
+				{
+					"type" : 0,
+					"index" : 58,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "화살표 버튼을 터치하여 엉덩이를 움직여보자"
+				},
+				{
+					"type" : 2,
+					"index" : 59,
+					"background_name" : "비밀의방",
+					"dialog" : "엉덩이를 움직여보자",
+					"event" : "hip_name"
+				},
+				{
+					"type" : 0,
+					"index" : 60,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "보기 좋구나."
+				},
+				{
+					"type" : 0,
+					"index" : 61,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"expression" : "smile",
+					"background_name" : "비밀의방",
+					"dialog" : "...크흡..."
+				},
+				{
+					"type" : 0,
+					"index" : 62,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 바닥에 떨어진 바지를 입으며 눈물을 삼켰다."
+				},
+				{
+					"type" : 0,
+					"index" : 63,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "바지가 엉덩이에 난 상처에 쓸려 따끔거렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 64,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "그래, 이제 수청을 들 생각이 좀 생겼느냐?"
+				},
+				{
+					"type" : 0,
+					"index" : 65,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "엉덩이에 난 상처가 너무너무 아프다. "
+				},
+				{
+					"type" : 0,
+					"index" : 66,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 어떤 선택을 해야 할까?"
+				},
+				{
+					"type" : 1,
+					"index" : 67,
+					"background_name" : "비밀의방",
+					"dialog" : "수청을 든다",
+					"change" : 112
+				},
+				{
+					"type" : 1,
+					"index" : 68,
+					"background_name" : "비밀의방",
+					"dialog" : "싫다",
+					"change" : 69
+				},
+				{
+					"type" : 0,
+					"index" : 69,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 눈을 질끈 감았다."
+				},
+				{
+					"type" : 0,
+					"index" : 70,
+					"speaker" : "천민",
+					"background_name" : "비밀의방",
+					"dialog" : "시...싫습니다..!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 71,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "serious",
+					"dialog" : "...끈질기구나."
+				},
+				{
+					"type" : 0,
+					"index" : 72,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "serious",
+					"dialog" : "준비하거라."
+				},
+				{
+					"type" : 0,
+					"index" : 73,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "준비하거라!"
+				},
+				{
+					"type" : 0,
+					"index" : 74,
+					"speaker" : "",
+					"character" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "소똥이의 말이 끝나기가 무섭게 개똥이와 말똥이가 다가와 검은 천으로 내 눈을 가렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 75,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "아무것도 보이지 않은 채로 개똥이와 말똥이에게 이끌려 마님 앞으로 끌려갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 76,
+					"speaker" : "천민",
+					"background_name" : "어둠",
+					"dialog" : "아니, 대체 이게 무스... 읍읍...!!"
+				},
+				{
+					"type" : 0,
+					"index" : 77,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "이게 무슨 짓이냐고 물어보려 입을 여는 순간 입 안으로 무언가가 들어왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 78,
+					"speaker" : "자운영",
+					"background_name" : "어둠",
+					"expression" : "smile",
+					"dialog" : "이게 몇 번째 손가락 같으냐?"
+				},
+				{
+					"type" : 0,
+					"index" : 79,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "입 안으로 길고 매끄러운 것이 들어왔다.\n들어온 손가락은 과연 몇 번째 손가락일까?"
+				},
+				{
+					"type" : 2,
+					"index" : 80,
+					"background_name" : "어둠",
+					"event" : "finger"
+				},
+				{
+					"type" : 0,
+					"index" : 81,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "입 안에서 나를 괴롭히던 마님의 손가락이 빠져나갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 82,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "정신이 혼미했다."
+				},
+				{
+					"type" : 0,
+					"index" : 83,
+					"speaker" : "",
+					"background_name" : "어둠",
+					"dialog" : "입가에는 침이 흐르고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 84,
+					"speaker" : "자운영",
+					"background_name" : "어둠",
+					"dialog" : "볼수록 욕심난단 말이야..."
+				},
+				{
+					"type" : 0,
+					"index" : 85,
+					"speaker" : "자운영",
+					"background_name" : "어둠",
+					"dialog" : "풀어주거라."
+				},
+				{
+					"type" : 0,
+					"index" : 86,
+					"speaker" : "",				
+					"background_name" : "비밀의방",
+					"dialog" : "눈을 가리고 있던 검은 천이 풀어졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 87,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "smile",	
+					"background_name" : "비밀의방",
+					"dialog" : "이제 좀 어떠니 아가. 마음이 좀 생겼어?"
+				},
+				{
+					"type" : 0,
+					"index" : 88,
+					"speaker" : "",
+					"character" : "자운영",
+					"expression" : "smile",	
+					"background_name" : "비밀의방",
+					"dialog" : "너무 수치스럽다."
+				},
+				{
+					"type" : 0,
+					"index" : 89,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "도대체 나는 어떻게 해야 하는 것일까?"
+				},
+				{
+					"type" : 1,
+					"index" : 90,
+					"background_name" : "비밀의방",
+					"dialog" : "수청을 든다",
+					"change" : 112
+				},
+				{
+					"type" : 1,
+					"index" : 91,
+					"background_name" : "비밀의방",
+					"dialog" : "싫다",
+					"change" : 92
+				},
+				{
+					"type" : 0,
+					"index" : 92,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "싫...후..., 싫습니다."
+				},
+				{
+					"type" : 0,
+					"index" : 93,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마님을 향해 눈을 치켜뜨고 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 94,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "smile",	
+					"background_name" : "비밀의방",
+					"dialog" : "하하, 사람 하나는 잘 골랐단 말이야. "
+				},
+				{
+					"type" : 0,
+					"index" : 95,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "serious",
+					"dialog" : "그래. 언제까지 버티나 보자꾸나. "
+				},
+				{
+					"type" : 0,
+					"index" : 96,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "smile",	
+					"background_name" : "비밀의방",
+					"dialog" : "오늘은 이만하면 됐다. 좀 쉬렴."
+				},
+				{
+					"type" : 0,
+					"index" : 97,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "마님이 나가자 노비들이 방을 정리하기 시작했다.",
+					"sound" : "노을_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 98,
+					"speaker" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "내가 치울 테니 너희들은 나가봐."
+				},
+				{
+					"type" : 0,
+					"index" : 99,
+					"speaker" : "개똥, 말똥",
+					"background_name" : "비밀의방",
+					"dialog" : "그래주면 고맙지."
+				},
+				{
+					"type" : 0,
+					"index" : 100,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "개똥이와 말똥이가 나가는 소리가 들렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 101,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "방 안에는 소똥이와 나의 숨소리만 가득했다."
+				},
+				{
+					"type" : 0,
+					"index" : 102,
+					"speaker" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "후우..."
+				},
+				{
+					"type" : 0,
+					"index" : 103,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "소똥이가 한숨을 쉬고는 묶여있던 끈을 풀어주었다."
+				},
+				{
+					"type" : 0,
+					"index" : 104,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "소... 소똥아..."
+				},
+				{
+					"type" : 0,
+					"index" : 105,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "소똥이는 방에 난 창문의 창살을 팔로 세게 쳤다."
+				},
+				{
+					"type" : 0,
+					"index" : 106,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "그러자 창살이 힘없이 떨어졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 107,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "뒤처리는 내가 할 테니 도망쳐."
+				},
+				{
+					"type" : 0,
+					"index" : 108,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "...."
+				},
+				{
+					"type" : 0,
+					"index" : 109,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "고마워."
+				},
+				{
+					"type" : 0,
+					"index" : 110,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "비밀의방",
+					"dialog" : "이 은혜 절대로 잊지 않을게."
+				},
+				{
+					"type" : 0,
+					"index" : 111,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 소똥이를 뒤로하고 창문을 통해 밖으로 탈출했다.",
+					"change" : 132
+				},
+				{
+					"type" : 0,
+					"index" : 112,
+					"speaker" : "천민",
+					"background_name" : "비밀의방",
+					"dialog" : "...하겠습니다. "
+				},
+				{
+					"type" : 0,
+					"index" : 113,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "나는 눈을 질끈 감았다 떴다."
+				},
+				{
+					"type" : 0,
+					"index" : 114,
+					"speaker" : "천민",
+					"background_name" : "비밀의방",
+					"dialog" : "수청. 들겠습니다.",
+					"change" : 127
+				},
+				{
+					"type" : 0,
+					"index" : 115,
+					"speaker" : "",
+					"background_name" : "비밀의방",
+					"dialog" : "내 대답에 마님은 기쁜 듯 웃음을 멈추지 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 116,
+					"speaker" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "그래, 그래. 잘 생각했다 아가."
+				},
+				{
+					"type" : 0,
+					"index" : 117,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "다들 나가있거라."
+				},
+				{
+					"type" : 0,
+					"index" : 118,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마님이 뒤도 돌아보지 않고 노비들에게 말하자 노비들은 일사분란하게 방을 빠져나갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 119,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"expression" : "smile",
+					"dialog" : "우리 둘만 남았네?"
+				},
+				{
+					"type" : 0,
+					"index" : 120,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마님은 승마채찍을 들고 나에게 다가와 내 허벅지를 쓰다듬기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 121,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "승마채찍을 옆에 내려놓은 마님은 내 무릎 위에 앉아 저고리 고름을 풀기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 122,
+					"speaker" : "천민",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마... 마님..."
+				},
+				{
+					"type" : 0,
+					"index" : 123,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "smile",
+					"background_name" : "비밀의방",
+					"dialog" : "쉿, 착하지? 가만히 있거라."
+				},
+				{
+					"type" : 0,
+					"index" : 124,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "마님의 손은 거침없이 내 저고리를 풀어헤쳤다."
+				},
+				{
+					"type" : 0,
+					"index" : 125,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "비밀의방",
+					"dialog" : "그리고..."
+				},
+				{
+					"type" : 3,
+					"index" : 126,
+					"speaker" : "",
+					"background_name" : "비밀의방"
+				},
+				{
+					"type" : 0,
+					"index" : 127,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "........."
+				},
+				{
+					"type" : 0,
+					"index" : 128,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "덜 익었구나."
+				},
+				{
+					"type" : 0,
+					"index" : 129,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "덜 익은 감과 같이 떫은 맛이 난다. 아직 먹기에는 이르구나."
+				},
+				{
+					"type" : 0,
+					"index" : 130,
+					"speaker" : "",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "실망한 기색으로 마님은 한숨을 쉬었다."
+				},
+				{
+					"type" : 0,
+					"index" : 131,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"expression" : "serious",
+					"background_name" : "비밀의방",
+					"dialog" : "후... 오늘은 아닌 것 같구나. 내일 다시 찾아오겠다.",
+					"change" : 97
+				},
+				{
+					"type" : 4,
+					"index" : 132,
+					"speaker" : "",
+					"background_name" : "비밀의방"
+				}
+			]
+		},
+		{
+			"index" : 2,
+			"love_point" : 5,
+			"touch_point_max" : 600,
+			"sound" : "봄맞이_bgm",
+			"sound_effect" : "button",
+			"Dialog" : 
+			[
+				{
+					"type" : 0,
+					"index" : 0,
+					"speaker" : "",
+					"background_name" : "",
+					"dialog" : " "
+				},
+				{
+					"type" : 0,
+					"index" : 1,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "후우...",
+				},
+				{
+					"type" : 0,
+					"index" : 2,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 나무에 등을 기대고 주저앉았다."
+				},
+				{
+					"type" : 0,
+					"index" : 3,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "마님 방 안의 비밀의 방에서 도망쳐 정신없이 뛰었다."
+				},
+				{
+					"type" : 0,
+					"index" : 4,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "정신을 차려보니 마을 어귀의 서낭당 나무가 보였다."
+				},
+				{
+					"type" : 0,
+					"index" : 5,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "이 정도면 한동안은 안심해도 되겠지."
+				},
+				{
+					"type" : 0,
+					"index" : 6,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "그나저나 소똥이는 어떻게 됐을까..."
+				},
+				{
+					"type" : 0,
+					"index" : 7,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "나를 탈출시켜주던 소똥이의 모습이 눈에 아른거렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 8,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "일단 내 걱정이나 하자."
+				},
+				{
+					"type" : 0,
+					"index" : 9,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "이제 나는 어떻게 해야하지..."
+				},
+				{
+					"type" : 0,
+					"index" : 10,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 고개를 숙였다."
+				},
+				{
+					"type" : 0,
+					"index" : 11,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "평생 배운 것이라고는 잡일밖에 없는데 어디서 무엇을 하고 살아야할지 앞이 막막했다."
+				},
+				{
+					"type" : 0,
+					"index" : 12,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "게다가 도망친 노비신세라니."
+				},
+				{
+					"type" : 0,
+					"index" : 13,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "잡히면 어떻게 될지 상상조차 되지 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 14,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "한참을 걱정하고 있을 때였다."
+				},
+				{
+					"type" : 0,
+					"index" : 15,
+					"speaker" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "무당인 척 지리구요~~~~"
+				},
+				{
+					"type" : 0,
+					"index" : 16,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "주위가 갑자기 소란스러워졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 17,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "뭐지?"
+				},
+				{
+					"type" : 0,
+					"index" : 18,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "귀신 보이는 척 오지구요~~~~"
+				},
+				{
+					"type" : 0,
+					"index" : 19,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "관심종자 인정? 인정?"
+				},
+				{
+					"type" : 0,
+					"index" : 20,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "語(말씀 어) 인정~~"
+				},
+				{
+					"type" : 0,
+					"index" : 21,
+					"speaker" : "",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "서당을 다닐 것처럼 보이는 사내아이들이 무리를 지어 한 계집아이를 괴롭히고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 22,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "계집아이는 일반 아이들과는 다르게 조금 특이한 옷을 입고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 23,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "무당이라고 괴롭힘을 당하는 건가."
+				},
+				{
+					"type" : 0,
+					"index" : 24,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "가서 말려야 할까?"
+				},
+				{
+					"type" : 1,
+					"index" : 25,
+					"background_name" : "서낭당나무",
+					"dialog" : "말린다",
+					"change" : 27
+				},
+				{
+					"type" : 1,
+					"index" : 26,
+					"background_name" : "서낭당나무",
+					"dialog" : "그냥 가만히 있는다",
+					"change" : 29
+				},
+				{
+					"type" : 0,
+					"index" : 27,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "이게 무슨 짓들이야!"
+				},
+				{
+					"type" : 0,
+					"index" : 28,
+					"speaker" : "",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 무당아이의 앞을 막고 일진패에게 소리를 질렀다.",
+					"change" : 34
+				},
+				{
+					"type" : 0,
+					"index" : 29,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "됐다. 내 앞가림이나 잘 해야지."
+				},
+				{
+					"type" : 0,
+					"index" : 30,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "다시 고민을 이어가던 찰나, 일진패가 무당아이에게 달려들어 모자를 뺏으려 실랑이를 하기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 31,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "이거 진짜 사탕인 부분???"
+				},
+				{
+					"type" : 0,
+					"index" : 32,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "뺏기 각~~~"
+				},
+				{
+					"type" : 0,
+					"index" : 33,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "仰(우러를 앙) 지화자~~!"
+				},
+				{
+					"type" : 0,
+					"index" : 34,
+					"speaker" : "천민",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "이게 무슨 짓이냐!"
+				},
+				{
+					"type" : 0,
+					"index" : 35,
+					"speaker" : "",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "나도 모르게 무당아이의 앞을 막아서 일진패에게 소리를 질렀다."
+				},
+				{
+					"type" : 0,
+					"index" : 36,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "아 저분 최소 성균관 유생~~"
+				},
+				{
+					"type" : 0,
+					"index" : 37,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "훈장질 소오름~~"
+				},
+				{
+					"type" : 0,
+					"index" : 38,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "이거 來(올 래)斡(관리할 알) 반박 불가."
+				},
+				{
+					"type" : 0,
+					"index" : 39,
+					"speaker" : "",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "일진패는 알아듣기 힘든 말을 하며 나를 조롱하기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 40,
+					"speaker" : "천민",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "이놈!!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 41,
+					"speaker" : "일진패",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "히익..!! 오줌 지리구요~~~"
+				},
+				{
+					"type" : 0,
+					"index" : 42,
+					"speaker" : "",
+					"character" : "일진패",
+					"background_name" : "서낭당나무",
+					"dialog" : "서딩들은 흙바닥에 침을 뱉으며 우르르 몰려가며 골목으로 사라졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 43,
+					"speaker" : "천민",
+					"background_name" : "서낭당나무",
+					"dialog" : "얘야, 괜찮니?"
+				},
+				{
+					"type" : 0,
+					"index" : 44,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "shame",
+					"dialog" : "그.. 저기... 고맙슾니다."
+				},
+				{
+					"type" : 0,
+					"index" : 45,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "서낭당나무",
+					"dialog" : "아이는 쑥스러운 듯 손가락을 꼼지락거리며 나를 쳐다보고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 46,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "아니란다. 다음에 저런 아이들이 또 괴롭히면 주위에 어른들에게 도움을 청하렴."
+				},
+				{
+					"type" : 0,
+					"index" : 47,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 아이의 머리를 쓰다듬으며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 48,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "서낭당나무",
+					"dialog" : "하지만 아이의 표정은 어두워졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 49,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "sad",
+					"dialog" : "하지만..., 하지만 무당은 사람치급도 몯밧는걸요?"
+				},
+				{
+					"type" : 0,
+					"index" : 50,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 아무 말도 할 수 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 51,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "무당은 노비와 별 다를 바 없는 취급을 받고 있었기 때문이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 52,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "방금까지 아이를 괴롭히던 일진패들 역시, 양반집 자식들일 것이 분명했다."
+				},
+				{
+					"type" : 0,
+					"index" : 53,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "사실 내가 그 일진패에게 큰소리를 내면 안 되는 것이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 54,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "그런데 노비나 다름없는 무당인 아이가 그 아이들에게 괴롭힘을 당한다고 해서 도와줄 어른들이 과연 얼마나 있을 까?"
+				},
+				{
+					"type" : 0,
+					"index" : 55,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "내가 입을 다물고 아이를 바라보자, 아이는 애써 분위기를 바꾸려는 듯 웃으며 내 옷깃을 잡아끌었다."
+				},
+				{
+					"type" : 0,
+					"index" : 56,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "smile",
+					"dialog" : "내 이름은 흑화애오."
+				},
+				{
+					"type" : 0,
+					"index" : 57,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "smile",
+					"dialog" : "저기 산 중턱의 집애서 살고 잇어요."
+				},
+				{
+					"type" : 0,
+					"index" : 58,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "smile",
+					"dialog" : "저를 도와주셧으니, 보닾으로 부저글 써드릴개요!"
+				},
+				{
+					"type" : 0,
+					"index" : 59,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "아, 아니야. 괜찮단다."
+				},
+				{
+					"type" : 0,
+					"index" : 60,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "refuse",
+					"dialog" : "지금 쫃기고 잇는 잎장 아닌가요?"
+				},
+				{
+					"type" : 0,
+					"index" : 61,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "serious",
+					"dialog" : "어디라도 도망치는 편이 조을 탠대요."
+				},
+				{
+					"type" : 0,
+					"index" : 62,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "그걸 어떻게..!"
+				},
+				{
+					"type" : 0,
+					"index" : 63,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "smile",
+					"dialog" : "이름뿌닌 무당은 아니거든요!"
+				},
+				{
+					"type" : 0,
+					"index" : 64,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "smile",
+					"background_name" : "서낭당나무",
+					"dialog" : "흑화는 웃으며 나를 잡아끌었다."
+				},
+				{
+					"type" : 0,
+					"index" : 65,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"expression" : "smile",
+					"dialog" : "빨리 가요~"
+				},
+				{
+					"type" : 0,
+					"index" : 66,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "흑화가 부적을 써준다고 집으로 초대를 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 67,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "따라갈까 말아야할까?"
+				},
+				{
+					"type" : 1,
+					"index" : 68,
+					"background_name" : "서낭당나무",
+					"dialog" : "따라 간다",
+					"change" : 70
+				},
+				{
+					"type" : 1,
+					"index" : 69,
+					"background_name" : "서낭당나무",
+					"dialog" : "따라가지 않는다",
+					"change" : 72
+				},
+				{
+					"type" : 0,
+					"index" : 70,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"background_name" : "서낭당나무",
+					"dialog" : "그래. 얼른 가자꾸나."
+				},
+				{
+					"type" : 0,
+					"index" : 71,
+					"speaker" : "",
+					"background_name" : "서낭당나무",
+					"dialog" : "나는 흑화를 따라 산으로 향했다.",
+					"change" : 76
+				},
+				{
+					"type" : 0,
+					"index" : 72,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "서낭당나무",
+					"dialog" : "고마운 말이지만... 마음만 고맙게 받을게. 더이상 다른 이를 끌어들일 수는 없겠구나."
+				},
+				{
+					"type" : 0,
+					"index" : 73,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "서낭당나무",
+					"dialog" : "불현듯 소똥이가 떠올랐다...\n소똥아........"
+				},
+				{
+					"type" : 0,
+					"index" : 74,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "서낭당나무",
+					"dialog" : "그럼 이만 나는 떠날게."
+				},
+				{
+					"type" : 0,
+					"index" : 75,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "서낭당나무",
+					"dialog" : "시무룩해 보이는 흑화를 뒤로한 채, 나는 종종걸음으로 서낭당나무를 벗어났다.",
+					"change" : 292
+				},
+				{
+					"type" : 0,
+					"index" : 76,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "여기가 우리 짚이에요!"
+				},
+				{
+					"type" : 0,
+					"index" : 77,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "흑화를 따라 온 집에는 기괴한 물건들이 가득했다."
+				},
+				{
+					"type" : 0,
+					"index" : 78,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "이건 뭐야?"
+				},
+				{
+					"type" : 0,
+					"index" : 79,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "이건 굿할떼 쓰는 물건드리고, 이건..."
+				},
+				{
+					"type" : 0,
+					"index" : 80,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"expression" : "surprise",
+					"dialog" : "아! 이럴떼가 아니지!"
+				},
+				{
+					"type" : 0,
+					"index" : 81,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "부적 쓸떼 필료한 제료드를 가지고 나올개요!"
+				},
+				{
+					"type" : 0,
+					"index" : 82,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "아무데나 안자잇어요!"
+				},
+				{
+					"type" : 0,
+					"index" : 83,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "흑화는 서둘러 방 안으로 들어갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 84,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나는 쭈뼛거리며 바닥에 걸터앉았다."
+				},
+				{
+					"type" : 0,
+					"index" : 85,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "이 산골에 혼자 사는 건가? 위험 할 텐데..."
+				},
+				{
+					"type" : 0,
+					"index" : 86,
+					"speaker" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "나랑 같이 살고 있어."
+				},
+				{
+					"type" : 0,
+					"index" : 87,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "그렇구...??!!"
+				},
+				{
+					"type" : 0,
+					"index" : 88,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "옆에서 스산한 기운이 느껴졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 89,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "분명 아무도 없었는데...!"
+				},
+				{
+					"type" : 0,
+					"index" : 90,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "나를 볼 수 있다니, 제법인 걸?"
+				},
+				{
+					"type" : 0,
+					"index" : 91,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "내 옆에는 창백한 피부에 빨간 눈을 한 처녀귀신이 앉아있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 92,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "으아아아아!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 93,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"expression" : "surprise",
+					"dialog" : "?!"
+				},
+				{
+					"type" : 0,
+					"index" : 94,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "무슨 이리애여?"
+				},
+				{
+					"type" : 0,
+					"index" : 95,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "내 비명소리를 들은 흑화가 나를 보며 물었다."
+				},
+				{
+					"type" : 0,
+					"index" : 96,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "나는 말도 하지 못하고 나를 보며 웃고 있는 처녀귀신을 손가락으로 가리켰다."
+				},
+				{
+					"type" : 0,
+					"index" : 97,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "아~"
+				},
+				{
+					"type" : 0,
+					"index" : 98,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "놀라지 마새여. 우리 언니애오."
+				},
+				{
+					"type" : 0,
+					"index" : 99,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "안녕? 난 을씨년이야."
+				},
+				{
+					"type" : 0,
+					"index" : 100,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "흑화는 아무렇지 않게 처녀귀신을 소개했고, 을씨년은 아무렇지도 않게 인사를 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 101,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "귀... 귀.... 귀신이잖아??!!"
+				},
+				{
+					"type" : 0,
+					"index" : 102,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "음... 아 그개~ 어떡게 됀거냐면..."
+				},
+				{
+					"type" : 0,
+					"index" : 103,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "흑화의 맞춤법을 교정해주자"
+				},
+				{
+					"type" : 2,
+					"index" : 104,
+					"background_name" : "무당집",
+					"sound" : "묵향_bgm",
+					"event" : "quiz1"
+				},
+				{
+					"type" : 0,
+					"index" : 105,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "그랬구나..."
+				},
+				{
+					"type" : 0,
+					"index" : 106,
+					"speaker" : "",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"dialog" : "아무렇지도 않다는 듯 웃으며 말 하는 흑화가 안쓰러워보였다."
+				},
+				{
+					"type" : 0,
+					"index" : 107,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "어린 나이에 부모님도 여의고, 하나뿐인 언니까지 죽어버리다니."
+				},
+				{
+					"type" : 0,
+					"index" : 108,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "얼마나 걱정이 됐으면 언니가 귀신이 되어서까지 옆에 있겠어."
+				},
+				{
+					"type" : 0,
+					"index" : 109,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "내 말에 을씨년은 딴청을 피우며 말꼬리를 늘였다."
+				},
+				{
+					"type" : 0,
+					"index" : 110,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "사실, 그게 말이야..."
+				},
+				{
+					"type" : 0,
+					"index" : 111,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "흑화가 더 어렸을 때였어."
+				},
+				{
+					"type" : 0,
+					"index" : 112,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "사흘을 넘게 굶어서 애가 기운이 없어 누워만 있었지."
+				},
+				{
+					"type" : 0,
+					"index" : 113,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "sad",
+					"background_name" : "장터_낮",
+					"dialog" : "일을 해서 돈을 벌어도 어떻게들 알고 찾아오는지, 빚쟁이들에게 다 빼앗겼어."
+				},
+				{
+					"type" : 0,
+					"index" : 114,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"expression" : "sad",
+					"dialog" : "결국 내가 할 수 있는 건 구걸밖에 없었지만, 다들 못사는 처지에 남을 도와줄 사람들이 있을 리가 없었지."
+				},
+				{
+					"type" : 0,
+					"index" : 115,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "sad",
+					"background_name" : "장터_낮",
+					"dialog" : "을씨년은 씁쓸한 얼굴로 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 116,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "sad",
+					"background_name" : "장터_낮",
+					"dialog" : "그래서 나는 최후의 방법을 쓰기로 결심을 했지."
+				},
+				{
+					"type" : 0,
+					"index" : 117,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "그게 무엇이죠?"
+				},
+				{
+					"type" : 0,
+					"index" : 118,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "도둑질."
+				},
+				{
+					"type" : 0,
+					"index" : 119,
+					"speaker" : "",
+					"background_name" : "장터_낮",
+					"dialog" : "을씨년은 어느 방향으로 도망쳐야 할까?"
+				},
+				{
+					"type" : 2,
+					"index" : 120,
+					"background_name" : "장터_낮",
+					"sound" : "원_bgm",
+					"event" : "escape"
+				},
+				{
+					"type" : 0,
+					"index" : 121,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "한두 번 훔치다보니 점점 더 대담해지기 시작했어. "
+				},
+				{
+					"type" : 0,
+					"index" : 122,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "하지만 꼬리가 길면 잡히는 법이라고, 결국 주인에게 들켜 관아로 끌려갔었지."
+				},
+				{
+					"type" : 0,
+					"index" : 123,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "관아로 끌려가 곤장을 맞았는데, 나는 그때 깨달음을 얻었단다."
+				},
+				{
+					"type" : 0,
+					"index" : 124,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "을씨년은 눈을 반짝였다."
+				},
+				{
+					"type" : 0,
+					"index" : 125,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"expression" : "smile",
+					"dialog" : "나는 누군가가 나를 때려주면 희열을 느낀다는 것을!"
+				},
+				{
+					"type" : 0,
+					"index" : 126,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "...?"
+				},
+				{
+					"type" : 0,
+					"index" : 127,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"dialog" : "나는 어이없는 표정으로 을씨년을 바라봤지만, 을씨년은 그 당시를 회상하는 듯 황홀한 표정이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 128,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"expression" : "smile",
+					"dialog" : "곤장을 맞을 때의 그 감각을 도저히 잊을 수가 없어 일부러 주인에게 들키도록 음식을 훔치고 다녔단다."
+				},
+				{
+					"type" : 0,
+					"index" : 129,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"expression" : "smile",
+					"dialog" : "그리고 곤장 맞기를 반복했지."
+				},
+				{
+					"type" : 0,
+					"index" : 130,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "장터_낮",
+					"expression" : "smile",
+					"dialog" : "그러던 어느 날, 여느 때와 다름없이 음식을 훔치다 발각되어 관아로 압송이 되어 곤장을 맞는데..."
+				},
+				{
+					"type" : 0,
+					"index" : 131,
+					"speaker" : "",
+					"background_name" : "장터_낮",
+					"expression" : "smile",
+					"dialog" : "제한 시간 10초동안 화면을 터치하여 을씨년의 음탕한 엉덩이에 벌을 내려주자!"
+				},
+				{
+					"type" : 2,
+					"index" : 132,
+					"background_name" : "장터_낮",
+					"event" : "smash"
+				},
+				{
+					"type" : 0,
+					"index" : 133,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그 때의 쾌감이 아주 엄청났지."
+				},
+				{
+					"type" : 0,
+					"index" : 134,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "지금까지 맞던 곤장과는 달랐어."
+				},
+				{
+					"type" : 0,
+					"index" : 135,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "내 생의 최고의 쾌감이었어."
+				},
+				{
+					"type" : 0,
+					"index" : 136,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그렇게 절정에 도달하려고 할 무렵, 곤장을 다 맞아버린거야."
+				},
+				{
+					"type" : 0,
+					"index" : 137,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "더 때려달라고 애원해도 내쫒을 뿐이었지."
+				},
+				{
+					"type" : 0,
+					"index" : 138,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "결국 난 집에 와서 끙끙 앓아누웠어."
+				},
+				{
+					"type" : 0,
+					"index" : 139,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "곤장 맞은 게 탈이 난 것이군요."
+				},
+				{
+					"type" : 0,
+					"index" : 140,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "refuse",
+					"dialog" : "내 물음에 을씨년은 고개를 저었다."
+				},
+				{
+					"type" : 0,
+					"index" : 141,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "serious",
+					"dialog" : "그것도 그랬지만..."
+				},
+				{
+					"type" : 0,
+					"index" : 142,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "serious",
+					"dialog" : "그 때 제대로 맞지 못해 화병이 난 것이 더 컸어."
+				},
+				{
+					"type" : 0,
+					"index" : 143,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "결국 난 병으로 죽고 말았고, 그 일이 한이 돼서 처녀귀신이 된 거야.",
+					"change" : 162
+				},
+				{
+					"type" : 0,
+					"index" : 144,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "결국 나는 곤장을 맞다가 죽어버리고 만 거야."
+				},
+				{
+					"type" : 0,
+					"index" : 145,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 자신이 죽은 이야기를 저녁 반찬 얘기하듯 대수롭지 않게 말하고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 146,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "왜 그런 얘기를 저한테 하시는거죠?"
+				},
+				{
+					"type" : 0,
+					"index" : 147,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그것도 오늘 처음 만난 사람한테..."
+				},
+				{
+					"type" : 0,
+					"index" : 148,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "경계심 가득한 내 물음에 을씨년은 웃으며 내 어깨 위에 손을 올렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 149,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "우리 흑화를 구해줬잖니. 그리고..."
+				},
+				{
+					"type" : 0,
+					"index" : 150,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 음흉한 눈으로 나를 바라보며 웃기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 151,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "나를 진심으로 사랑하는 사람을 만나면, 나와 접촉할 수 있다고 하더구나."
+				},
+				{
+					"type" : 0,
+					"index" : 152,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "나는 어깨 위에 얹어진 을씨년의 손을 보고 다시 을씨년을 바라봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 153,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "지금 나를 유혹하는 겁니까?"
+				},
+				{
+					"type" : 0,
+					"index" : 154,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그래, 맞아. 네가 나를 사랑하게 된다면 나와 접촉을 할 수 있고 그렇게 된다면..."
+				},
+				{
+					"type" : 0,
+					"index" : 155,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "네가 나를 때려줬으면 좋겠어."
+				},
+				{
+					"type" : 1,
+					"index" : 156,
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 미친년 아니야?",
+					"change" : 159
+				},
+				{
+					"type" : 1,
+					"index" : 157,
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 정신병자 아니야?",
+					"change" : 162
+				},
+				{
+					"type" : 1,
+					"index" : 158,
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 내 취향 아니야?",
+					"change" : 165
+				},
+				{
+					"type" : 0,
+					"index" : 159,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 미친년 아니야?"
+				},
+				{
+					"type" : 0,
+					"index" : 160,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "나도 모르게 나온 욕에도 을씨년은 대수롭지 않은 표정이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 161,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "미친년이라고 말해도 상관없어. 단지 난... 그 때의 쾌감을 잊을 수가 없을 뿐이야.",
+					"change" : 169
+				},
+				{
+					"type" : 0,
+					"index" : 162,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 정신병자 아니야?"
+				},
+				{
+					"type" : 0,
+					"index" : 163,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "나도 모르게 나온 욕에도 을씨년은 대수롭지 않은 표정이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 164,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "정신병자라고 말해도 상관없어. 단지 난... 그 때의 쾌감을 잊을 수가 없을 뿐이야.",
+					"change" : 169
+				},
+				{
+					"type" : 0,
+					"index" : 165,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "이거 완전 내 취향 아니야?"
+				},
+				{
+					"type" : 0,
+					"index" : 166,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나도 모르게 나온 속마음에, 내 얼굴이 붉어지는 것이 느껴졌다."
+				},
+				{
+					"type" : 0,
+					"index" : 167,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 싱긋 웃으며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 168,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "역시, 내 눈은 틀리지 않았어."
+				},
+				{
+					"type" : 0,
+					"index" : 169,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그래서 어때? 내 부탁을 들어줄 수 있겠어?"
+				},
+				{
+					"type" : 1,
+					"index" : 170,
+					"background_name" : "무당집",
+					"dialog" : "물론이다",
+					"change" : 172
+				},
+				{
+					"type" : 1,
+					"index" : 171,
+					"background_name" : "무당집",
+					"dialog" : "절대 아니다",
+					"change" : 179
+				},
+				{
+					"type" : 0,
+					"index" : 172,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "물론이죠."
+				},
+				{
+					"type" : 0,
+					"index" : 173,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "황당한 요구였지만 나는 긍정의 대답을 해버렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 174,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "왜인지 호기심이 생겼기 때문이다."
+				},
+				{
+					"type" : 0,
+					"index" : 175,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "과연 내가 을씨년과 접촉을 할 수 있을까?"
+				},
+				{
+					"type" : 0,
+					"index" : 176,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "정말 을씨년은 내가 때린다면, 그걸 맞고 좋아할까?"
+				},
+				{
+					"type" : 0,
+					"index" : 177,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "머릿속으로 오만가지 생각을 다 하고 있던 와중에, 갑자기 "
+				},
+				{
+					"type" : 0,
+					"index" : 178,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "옆에서 고막을 찢을듯한 목소리가 들려왔다.",
+					"change" : 185
+				},
+				{
+					"type" : 0,
+					"index" : 179,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "절대, 절대 안합니다."
+				},
+				{
+					"type" : 0,
+					"index" : 180,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "내 단호한 대답에도 을씨년은 서운해 하는 표정조차 짓지 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 181,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "그저 웃고 있을 뿐이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 182,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "smile",
+					"dialog" : "그럼 방법은 단 하나 뿐이구나."
+				},
+				{
+					"type" : 0,
+					"index" : 183,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "...?"
+				},
+				{
+					"type" : 0,
+					"index" : 184,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"expression" : "serious",
+					"dialog" : "귀접."
+				},
+				{
+					"type" : 0,
+					"index" : 185,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "을씨년의 말이 끝나기가 무섭게 옆에서 고막을 찢을듯한 목소리가 들려왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 186,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"background_name" : "무당집",
+					"expression" : "angry",
+					"dialog" : "절대 안 돼!!!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 187,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "화난 얼굴을 한 흑화가 씩씩대며 나와 을씨년을 바라보고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 188,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "왜 그러니?"
+				},
+				{
+					"type" : 0,
+					"index" : 189,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "아저씨는 내 거야!!"
+				},
+				{
+					"type" : 0,
+					"index" : 190,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 191,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "그게 무슨 소리야?"
+				},
+				{
+					"type" : 0,
+					"index" : 192,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 영문을 모르겠다는 표정으로 흑화에게 물었다."
+				},
+				{
+					"type" : 0,
+					"index" : 193,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "무당집",
+					"dialog" : "지금까지 나한테 이렇게까지 잘 해준 어른은 아저씨가 처음이란 말이야..."
+				},				
+				{
+					"type" : 0,
+					"index" : 194,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "난 아저씨가 일진패들에게 날 구해줬던 그 순간 첫눈에 반해버렸다고...!"
+				},
+				{
+					"type" : 0,
+					"index" : 195,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "무당집",
+					"dialog" : "난데없는 흑화의 말에 나는 놀란 표정을 감출 수 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 196,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "무당집",
+					"dialog" : "첫눈에 반했다고?!"
+				},
+				{
+					"type" : 0,
+					"index" : 197,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "무당집",
+					"dialog" : "흑화는 우물쭈물하며 입을 열었다."
+				},	
+				{
+					"type" : 0,
+					"index" : 198,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "무당집",
+					"dialog" : "지, 지금은 내가 너무 어려서 조, 조금 그렇지만..."
+				},
+				{
+					"type" : 0,
+					"index" : 199,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "무당집",
+					"dialog" : "나... 나중에...! 내가 조금 더 크면, 아저씨랑 혼인할거야...!"
+				},
+				{
+					"type" : 0,
+					"index" : 200,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "무당집",
+					"dialog" : "...!!"
+				},
+				{
+					"type" : 0,
+					"index" : 201,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "아휴..."
+				},
+				{
+					"type" : 0,
+					"index" : 202,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "refuse",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 고개를 저으며 한숨을 쉬었다."
+				},
+				{
+					"type" : 0,
+					"index" : 203,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나는 당황함을 숨기지 못해 고개를 돌려버렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 204,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "대체 이게 무슨 상황이지?"
+				},
+				{
+					"type" : 0,
+					"index" : 205,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "어린 아이의 치기라고 생각하려 했지만 흑화의 표정은 단호했다"
+				},
+				{
+					"type" : 0,
+					"index" : 206,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "일단 이 상황을 벗어나야겠어."
+				},
+				{
+					"type" : 0,
+					"index" : 207,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "이 집을 나가자."
+				},
+				{
+					"type" : 0,
+					"index" : 208,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "내가 몸을 일으키자 을씨년이 내 앞을 막아섰다."
+				},
+				{
+					"type" : 0,
+					"index" : 209,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "어디가려고?"
+				},
+				{
+					"type" : 0,
+					"index" : 210,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "그, 그... 자, 잠깐 바람 좀 쐬러 밖에..."
+				},
+				{
+					"type" : 0,
+					"index" : 211,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "도망 가려는 거 모를 줄 알고?"
+				},
+				{
+					"type" : 0,
+					"index" : 212,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "귀신같군. 아니, 진짜 귀신이지..."
+				},
+				{
+					"type" : 0,
+					"index" : 213,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "이왕 이렇게 된 거 선택하렴."
+				},
+				{
+					"type" : 0,
+					"index" : 214,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "무.. 무엇을..."
+				},
+				{
+					"type" : 0,
+					"index" : 215,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "우리 둘 중 한명을 선택해!"
+				},
+				{
+					"type" : 0,
+					"index" : 216,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "갑자기 닥친 상황에 어떻게 해야 될지를 모르겠다."
+				},
+				{
+					"type" : 0,
+					"index" : 217,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "대체 나는 누구를 선택해야 할까?"
+				},
+				{
+					"type" : 1,
+					"index" : 218,
+					"background_name" : "무당집",
+					"dialog" : "흑화",
+					"change" : 245
+				},
+				{
+					"type" : 1,
+					"index" : 219,
+					"background_name" : "무당집",
+					"dialog" : "을씨년",
+					"change" : 251
+				},
+				{
+					"type" : 1,
+					"index" : 220,
+					"background_name" : "무당집",
+					"dialog" : "둘 다 싫다",
+					"change" : 221
+				},
+				{
+					"type" : 0,
+					"index" : 221,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "저.. 저는..."
+				},
+				{
+					"type" : 0,
+					"index" : 222,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "내 앞을 가로막고 있는 흑화와 을씨년을 바라보며 눈을 질끈 감고 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 223,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "둘 다 싫어요!"
+				},
+				{
+					"type" : 0,
+					"index" : 224,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "...!"
+				},
+				{
+					"type" : 0,
+					"index" : 225,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "어린애도 싫고, 처녀귀신도 싫습니다!"
+				},
+				{
+					"type" : 0,
+					"index" : 226,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "다른 사람 찾아보세요!"
+				},
+				{
+					"type" : 0,
+					"index" : 227,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나는 말을 마치고 서둘러 집을 나서려 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 228,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "하지만 강한 힘이 내 손목을 잡아끌었다.",
+					"sound" : "노을_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 229,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "감히... 감히 우리를 버리고..."
+				},
+				{
+					"type" : 0,
+					"index" : 230,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "흑화의 눈이 번뜩였다."
+				},
+				{
+					"type" : 0,
+					"index" : 231,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "목소리도 어딘가 이상했다."
+				},
+				{
+					"type" : 0,
+					"index" : 232,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "...!"
+				},
+				{
+					"type" : 0,
+					"index" : 233,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "무슨 어린애 힘이...!"
+				},
+				{
+					"type" : 0,
+					"index" : 234,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "angry",
+					"background_name" : "무당집",
+					"dialog" : "호, 혹시... 빙의?!"
+				},
+				{
+					"type" : 0,
+					"index" : 235,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "절대 못가!!"
+				},
+				{
+					"type" : 0,
+					"index" : 236,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "흑화에게 빙의한 을씨년이 나를 더 세게 잡아끌었다."
+				},
+				{
+					"type" : 0,
+					"index" : 237,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "어떻게 해야 하지?"
+				},
+				{
+					"type" : 1,
+					"index" : 238,
+					"background_name" : "무당집",
+					"dialog" : "발로 찬다",
+					"change" : 240
+				},
+				{
+					"type" : 1,
+					"index" : 239,
+					"background_name" : "무당집",
+					"expression" : ,
+					"dialog" : "주먹으로 때린다",
+					"change" : 241
+				},
+				{
+					"type" : 0,
+					"index" : 240,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "어린애에게 손을 댄다는 것이 마음에 걸렸지만, 나는 흑화의 복부를 발로 걷어찼다.",
+					"change" : 242
+				},
+				{
+					"type" : 0,
+					"index" : 241,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "어린애에게 손을 댄다는 것이 마음에 걸렸지만, 나는 흑화의 복부를 주먹으로 때렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 242,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"character" : "흑화",
+					"expression" : "sad",
+					"dialog" : "나에게 맞은 흑화가 몸을 웅크리며 아파했다."
+				},
+				{
+					"type" : 0,
+					"index" : 243,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "sad",
+					"background_name" : "무당집",
+					"dialog" : "그, 그 저기... 미안하다..!!"
+				},
+				{
+					"type" : 0,
+					"index" : 244,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나는 흑화가 쓰러진 틈을 타 무당집을 벗어났다.",
+					"change" : 288
+				},
+				{
+					"type" : 0,
+					"index" : 245,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "저.. 저는..."
+				},
+				{
+					"type" : 0,
+					"index" : 246,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "흑화와 을씨년은 내 대답을 기다리는 듯 나를 뚫어지게 바라봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 247,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "흑화가 더 좋아요...!",
+					"change" : 258,
+				},
+				{
+					"type" : 0,
+					"index" : 248,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "shame",
+					"background_name" : "무당집",
+					"dialog" : "내 대답에 흑화는 기쁜 듯 눈물을 글썽거리며 울먹였다."
+				},
+				{
+					"type" : 0,
+					"index" : 249,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "아저씨..."
+				},
+				{
+					"type" : 0,
+					"index" : 250,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "...",
+					"change" : 290
+				},
+				{
+					"type" : 0,
+					"index" : 251,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "저.. 저는..."
+				},
+				{
+					"type" : 0,
+					"index" : 252,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "흑화와 을씨년은 내 대답을 기다리는 듯 나를 뚫어지게 바라봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 253,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"dialog" : "을씨년이 더 좋아요...!",
+					"change" : 275,
+				},
+				{
+					"type" : 0,
+					"index" : 254,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "내 대답에 을씨년은 그럴 줄 알았다는 듯 미소 지었다."
+				},
+				{
+					"type" : 0,
+					"index" : 255,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "그럼 이제 내 한을 풀어줘."
+				},
+				{
+					"type" : 0,
+					"index" : 256,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 입술을 햝으며 나에게 점점 다가왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 257,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "어.. 어떻게...",
+					"change" : 290
+				},
+				{
+					"type" : 0,
+					"index" : 258,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "내 대답을 들은 흑화의 표정이 뭔가 이상했다."
+				},
+				{
+					"type" : 0,
+					"index" : 259,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "으음..."
+				},
+				{
+					"type" : 0,
+					"index" : 260,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "싫망이애요, 아저씨"
+				},
+				{
+					"type" : 0,
+					"index" : 261,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "엥?"
+				},
+				{
+					"type" : 0,
+					"index" : 262,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "아까까지만 해도 좋다고 들이댈때는 언제고, 이제와서 무슨 소리를 하는거지?"
+				},
+				{
+					"type" : 0,
+					"index" : 263,
+					"speaker" : "천민",
+					"background_name" : "무당집",
+					"expression" : ,
+					"dialog" : "왜 그러니...?"
+				},
+				{
+					"type" : 0,
+					"index" : 264,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "우린 아직 만난지 몉시간 돼지도 안앗는대..."
+				},
+				{
+					"type" : 0,
+					"index" : 265,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "이러케 가볖게 맘을 정하다니..."
+				},
+				{
+					"type" : 0,
+					"index" : 266,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "흑화는 손에 들고 있던 작은 칼을 나에게 들이밀었다."
+				},
+				{
+					"type" : 0,
+					"index" : 267,
+					"speaker" : "천민",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "뭐..., 뭐야??"
+				},
+				{
+					"type" : 0,
+					"index" : 268,
+					"speaker" : "",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "흑화는 무서운 표정으로 나에게 한 걸음씩 다가왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 269,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "아직 열살바께 않됀 저애개 흙시믈 푸무시다니..."
+				},
+				{
+					"type" : 0,
+					"index" : 270,
+					"speaker" : "흑화",
+					"character" : "흑화",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "뿌리를 잘라버여야게써요!!"
+				},
+				{
+					"type" : 0,
+					"index" : 271,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "나는 갑자기 달려드는 흑화를 밀치고 무당집 밖으로 뛰쳐나가 정신없이 도망쳤다.",
+					"change" : 288
+				},
+				{
+					"type" : 0,
+					"index" : 272,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "내 대답을 들은 을씨년의 표정이 조금 이상했다."
+				},
+				{
+					"type" : 0,
+					"index" : 273,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "실망이구나..."
+				},
+				{
+					"type" : 0,
+					"index" : 274,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "???"
+				},
+				{
+					"type" : 0,
+					"index" : 275,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "이렇게 순순히 넘어오는 사내는 매력이 없지."
+				},
+				{
+					"type" : 0,
+					"index" : 276,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"expression" : "serious",
+					"background_name" : "무당집",
+					"dialog" : "...예?"
+				},
+				{
+					"type" : 0,
+					"index" : 277,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "refuse",
+					"background_name" : "무당집",
+					"dialog" : "매력이 없는 사내에게는 맞아도 별로 기쁘지 않단다."
+				},
+				{
+					"type" : 0,
+					"index" : 278,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "refuse",
+					"background_name" : "무당집",
+					"dialog" : "심드렁한 표정으로 나를 바라보고 있던 을씨년은 무언가를 고민하는 듯 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 279,
+					"speaker" : "",
+					"character" : "을씨년",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "그러던 중 갑자기 을씨년의 눈이 빛났다."
+				},
+				{
+					"type" : 0,
+					"index" : 280,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "surprise",
+					"background_name" : "무당집",
+					"dialog" : "그렇지!"
+				},
+				{
+					"type" : 0,
+					"index" : 281,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "네 몸을 주렴."
+				},
+				{
+					"type" : 0,
+					"index" : 282,
+					"speaker" : "천민",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "그게 무슨!!"
+				},
+				{
+					"type" : 0,
+					"index" : 283,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "네 몸에 빙의를 하면, 나는 모든 사람과 접촉을 할 수 있어!"
+				},
+				{
+					"type" : 0,
+					"index" : 284,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "게다가 사내의 몸이니 쉽게 죽지도 않겠지!"
+				},
+				{
+					"type" : 0,
+					"index" : 285,
+					"speaker" : "",
+					"character" : "을씨년",
+					"background_name" : "무당집",
+					"dialog" : "을씨년은 점점 나에게 다가왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 286,
+					"speaker" : "을씨년",
+					"character" : "을씨년",
+					"expression" : "smile",
+					"background_name" : "무당집",
+					"dialog" : "힘 빼고, 가만히 있으렴."
+				},
+				{
+					"type" : 0,
+					"index" : 287,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : "무서운 표정으로 달려드는 을씨년을 피해 무작정 무당집을 뛰쳐나왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 288,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"dialog" : " "
+				},
+				{
+					"type" : 4,
+					"index" : 289,
+					"background_name" : "무당집",
+					"dialog" : " "
+				},
+				{
+					"type" : 0,
+					"index" : 290,
+					"speaker" : "",
+					"background_name" : "무당집",
+					"expression" : ,
+					"dialog" : "......."
+				},
+				{
+					"type" : 3,
+					"index" : 291,
+					"background_name" : "무당집",
+					"dialog" : " "
+				},
+				{
+					"type" : 4,
+					"index" : 292,
+					"background_name" : "서낭당나무",
+					"dialog" : " "
+				},
+			]
+		},
+		{
+			"index" : 3,
+			"love_point" : 5,
+			"touch_point_max" : 600,
+			"sound" : "돌아오는길_bgm",
+			"sound_effect" : "button",
+			"Dialog" : 
+			[
+				{
+					"type" : 0,
+					"index" : 0,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "대화를 터치하시오"
+				},
+				{
+					"type" : 0,
+					"index" : 1,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "산길을 따라 숨도 쉬지 않고 뛰어내려온 나는, 사람들이 북적거리는 장터로 숨었다."
+				},
+				{
+					"type" : 0,
+					"index" : 2,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "장터라면 눈에 띄지 않겠지."
+				},
+				{
+					"type" : 0,
+					"index" : 3,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "숨을 고르고 사람들 사이에 스며들어, 마치 장을 구경하러 온 사람인 척 걸어 다녔다."
+				},
+				{
+					"type" : 0,
+					"index" : 4,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "대체 오늘 무슨 일들이 일어난 거지."
+				},
+				{
+					"type" : 0,
+					"index" : 5,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "마님에, 무당에, 처녀귀신까지."
+				},
+				{
+					"type" : 0,
+					"index" : 6,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "바로 어제까지만 해도 평범하던 노비 인생이었는데..."
+				},
+				{
+					"type" : 0,
+					"index" : 7,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 갑자기 치미는 설움에 발걸음을 멈췄다."
+				},
+				{
+					"type" : 0,
+					"index" : 8,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "이제 나는 어떻게 해야 하지..."
+				},
+				{
+					"type" : 0,
+					"index" : 9,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "어디로 가야... 으악!"
+				},
+				{
+					"type" : 0,
+					"index" : 10,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"expression" : "surprise",
+					"dialog" : "앗, 괜찮으시오?"
+				},
+				{
+					"type" : 0,
+					"index" : 11,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "골목 어귀에서 갑자기 한 사내가 뛰쳐나왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 12,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "그 사내는 가만히 서있던 나와 세게 부딪혔다."
+				},
+				{
+					"type" : 0,
+					"index" : 13,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "무방비 상태로 서있던 나는 바닥에 넘어져버렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 14,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "설상가상으로 전날 온 비에 젖은 흙이 옷 군데군데 묻어버렸다. "
+				},
+				{
+					"type" : 0,
+					"index" : 15,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "으... 진흙이..."
+				},
+				{
+					"type" : 0,
+					"index" : 16,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"expression" : "serious",
+					"dialog" : "..."
+				},
+				{
+					"type" : 0,
+					"index" : 17,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 옷에 묻은 진흙을 손으로 대충 털었다."
+				},
+				{
+					"type" : 0,
+					"index" : 18,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "그 와중에도 나와 부딪힌 사내는 아무 말도 하지 않은 채, 내 얼굴을 뚫어져라 쳐다보고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 19,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "serious",
+					"background_name" : "장터_낮2",
+					"dialog" : "어디가 아픈 사람인가?"
+				},
+				{
+					"type" : 0,
+					"index" : 20,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"expression" : "serious",
+					"background_name" : "장터_낮2",
+					"dialog" : "저기? 괜찮으십니까?"
+				},
+				{
+					"type" : 0,
+					"index" : 21,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_낮2",
+					"dialog" : "아, 아. 괜찮소."
+				},
+				{
+					"type" : 0,
+					"index" : 22,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "저기..."
+				},
+				{
+					"type" : 0,
+					"index" : 23,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_낮2",
+					"dialog" : "허둥지둥 정신을 차린 사내는 나에게 손을 건넸다."
+				},
+				{
+					"type" : 0,
+					"index" : 24,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "괜찮으시오?"
+				},
+				{
+					"type" : 1,
+					"index" : 25,
+					"background_name" : "장터_낮2",
+					"dialog" : "손을 잡고 일어난다",
+					"change" : 27
+				},
+				{
+					"type" : 1,
+					"index" : 26,
+					"background_name" : "장터_낮2",
+					"dialog" : "혼자 일어난다",
+					"change" : 29
+				},
+				{
+					"type" : 0,
+					"index" : 27,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 사내가 내민 손을 잡고 몸을 일으켰다."
+				},
+				{
+					"type" : 0,
+					"index" : 28,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "shame",
+					"background_name" : "장터_낮2",
+					"dialog" : "손을 잡자 사내의 얼굴이 살짝 붉게 물들었다.",
+					"change" : 30
+				},
+				{
+					"type" : 0,
+					"index" : 29,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 사내가 내민 손을 무시한 채 스스로 일어났다."
+				},
+				{
+					"type" : 0,
+					"index" : 30,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"expression" : "sad",
+					"dialog" : "나 때문에 옷이 더러워졌구려."
+				},
+				{
+					"type" : 0,
+					"index" : 31,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_낮2",
+					"dialog" : "진흙 범벅이 되어버린 내 옷을 본 사내는 미안한 표정으로 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 32,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_낮2",
+					"dialog" : "괜찮습니다. 원래 깨끗한 옷도 아니었으니 빨아 입으면 됩니다."
+				},
+				{
+					"type" : 0,
+					"index" : 33,
+					"speaker" : "천민",
+					"background_name" : "장터_낮2",
+					"dialog" : "그럼 전 이만..."
+				},
+				{
+					"type" : 0,
+					"index" : 34,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 빨리 이 곳을 벗어나야 된다는 생각밖에 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 35,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "대충 옷을 털고 지나가려는데, 사내는 그런 내 팔을 잡았다."
+				},
+				{
+					"type" : 0,
+					"index" : 36,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "serious",
+					"background_name" : "장터_낮2",
+					"dialog" : "험험. 그럴 수야 없지. "
+				},
+				{
+					"type" : 0,
+					"index" : 37,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"expression" : "smile",
+					"dialog" : "나 때문에 멀쩡한 옷을 버렸는데 어찌 그냥 갈 수 있겠소."
+				},
+				{
+					"type" : 0,
+					"index" : 38,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_낮2",
+					"dialog" : "그러니까 멀쩡한 옷이 아니었..."
+				},
+				{
+					"type" : 0,
+					"index" : 39,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_낮2",
+					"expression" : "smile",
+					"dialog" : "새 옷으로 변상해주겠소!"
+				},
+				{
+					"type" : 0,
+					"index" : 40,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "내 말을 끊은 사내는 나를 데리고 옷가게로 향했다."
+				},
+				{
+					"type" : 0,
+					"index" : 41,
+					"speaker" : "",
+					"background_name" : "장터_낮2",
+					"dialog" : "나는 될 대로 되라는 심정으로 사내를 따라갔다.",
+					"sound" : "숲속의아침_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 42,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"sound" : "숲속의아침_bgm",
+					"background_name" : "옷가게",
+					"dialog" : "그러니까, 이럴 필요까지는..."
+				},
+				{
+					"type" : 0,
+					"index" : 43,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "어떤 색이 좋으시오? 적색도 괜찮고, 청색도 잘 어울리는 듯 한데... "
+				},
+				{
+					"type" : 0,
+					"index" : 44,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "사내는 내 말을 듣지도 않고 옷의 색을 고르는데 열중했다."
+				},
+				{
+					"type" : 0,
+					"index" : 45,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "그쪽 마음대로 고르십시오. 저는 보는 눈이 없어 잘 모릅니다."
+				},
+				{
+					"type" : 0,
+					"index" : 46,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"expression" : "smile",
+					"dialog" : "안대례라 하오."
+				},
+				{
+					"type" : 0,
+					"index" : 47,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "예?"
+				},
+				{
+					"type" : 0,
+					"index" : 48,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"expression" : "smile",
+					"dialog" : "내 이름말이오. 안대례."
+				},
+				{
+					"type" : 0,
+					"index" : 49,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"expression" : "smile",
+					"dialog" : "궁에서 내관으로 일을 하고 있소."
+				},
+				{
+					"type" : 0,
+					"index" : 50,
+					"speaker" : "",
+					"background_name" : "옷가게",
+					"dialog" : "자신을 소개한 안대례는 청색 옷을 골라 계산을 마치고 나에게 건넸다."
+				},
+				{
+					"type" : 0,
+					"index" : 51,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "계속 그 옷을 입고 다닐 수는 없지 않소? "
+				},
+				{
+					"type" : 0,
+					"index" : 52,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "갈아입는 것이 어떻겠소?"
+				},
+				{
+					"type" : 0,
+					"index" : 53,
+					"speaker" : "",
+					"background_name" : "옷가게",
+					"dialog" : "나는 안대례의 말에, 옷을 건네받아 대충 갈아입었다."
+				},
+				{
+					"type" : 0,
+					"index" : 54,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"expression" : "smile",
+					"dialog" : "역시 청색이 잘 어울리는구려."
+				},
+				{
+					"type" : 0,
+					"index" : 55,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "원래 옷보다 훨씬 비싼데..."
+				},
+				{
+					"type" : 0,
+					"index" : 56,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "옷가게",
+					"dialog" : "괜찮소. 내가 잘못한 것이니 내가 변상하는 것이 옳지 않겠소?"
+				},
+				{
+					"type" : 0,
+					"index" : 57,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "아, 예."
+				},
+				{
+					"type" : 0,
+					"index" : 58,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "옷가게",
+					"dialog" : "그럼 부담 갖지 않고 잘 입겠습니다."
+				},
+				{
+					"type" : 0,
+					"index" : 59,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "옷가게",
+					"dialog" : "내 말에 안대례는 기쁜 듯 웃었다."
+				},
+				{
+					"type" : 0,
+					"index" : 60,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "가게를 나오자 밖은 이미 어두워져있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 61,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "저녁에도 장터에는 사람이 많네요."
+				},
+				{
+					"type" : 0,
+					"index" : 62,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "여전히 북적거리는 사람들을 보며 중얼거렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 63,
+					"speaker" : "",
+					"background_name" : "장터밤",
+					"dialog" : "그 때, 갑자기 한 무리의 사내들이 지나가며 나와 부딪혔다."
+				},
+				{
+					"type" : 0,
+					"index" : 64,
+					"speaker" : "지나가는 행인",
+					"background_name" : "장터_밤",
+					"dialog" : "미안하오!"
+				},
+				{
+					"type" : 0,
+					"index" : 65,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 부딪힌 어깨를 손으로 감싸고 말이 없는 안대례를 쳐다봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 66,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "안대례는 화가 난 듯 표정이 굳어있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 67,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "천민에게 그 누구도 다가가게 하고 싶지 않다.\n안대례가 되어 제한시간 내에 사람들을 없애보자! (단, 천민을 터치하지 않게 주의해야한다)"
+				},
+				{
+					"type" : 2,
+					"index" : 68,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"event" : "remove"
+				},
+				{
+					"type" : 0,
+					"index" : 69,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "smile",
+					"dialog" : "이제 좀 사람이 적어졌군."
+				},
+				{
+					"type" : 0,
+					"index" : 70,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "어느새 한산해진 거리를 보며 안대례는 만족스러운 듯 웃었다."
+				},
+				{
+					"type" : 0,
+					"index" : 71,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "어떻소. 마음에 드시오?"
+				},
+				{
+					"type" : 0,
+					"index" : 72,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "사람이 적으니 편하고 좋네요.",
+					"change" : 79
+				},
+				{
+					"type" : 0,
+					"index" : 73,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "sad",
+					"dialog" : "..."
+				},
+				{
+					"type" : 0,
+					"index" : 74,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "sad",
+					"dialog" : "안대례는 시무룩한 얼굴로 고개를 숙였다."
+				},
+				{
+					"type" : 0,
+					"index" : 75,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 그런 안대례의 팔을 두드리며 위로했다."
+				},
+				{
+					"type" : 0,
+					"index" : 76,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "괜찮습니다. 사람 많으니 북적거리고 좋죠 뭐."
+				},
+				{
+					"type" : 0,
+					"index" : 77,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "부딪히는 거야 조심하면 되는 일이고."
+				},
+				{
+					"type" : 0,
+					"index" : 78,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "그렇지 않습니까?"
+				},
+				{
+					"type" : 0,
+					"index" : 79,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "내가 웃으며 말하자, 안대례도 나와 눈을 맞추며 웃었다."
+				},
+				{
+					"type" : 0,
+					"index" : 80,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "shame",
+					"dialog" : "이름이 무엇이오?"
+				},
+				{
+					"type" : 0,
+					"index" : 81,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "shame",
+					"background_name" : "장터_밤",
+					"dialog" : "그러고 보니 안대례의 이름만 듣고, 정작 내 이름은 알려주지 않았던 것이 생각났다."
+				},
+				{
+					"type" : 0,
+					"index" : 82,
+					"speaker" : "천민 ",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "아차! 제 이름은 천민이라 합니다."
+				},
+				{
+					"type" : 0,
+					"index" : 83,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "서둘러 안대례에게 내 이름을 알려줬다."
+				},
+				{
+					"type" : 0,
+					"index" : 84,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "왠지 입에 올리기 창피한 이름이었지만, 안대례는 웃지 않고 내 이름을 중얼거렸다.",
+					"sound" : "풀내음_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 85,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "shame",
+					"dialog" : "천민이라..."
+				},
+				{
+					"type" : 0,
+					"index" : 86,
+					"speaker" : "???",
+					"sound" : "풀내음_bgm",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "민아!"
+				},
+				{
+					"type" : 0,
+					"index" : 87,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "갑자기 들려온 익숙한 목소리에 고개를 들어 소리가 난 쪽을 쳐다봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 88,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "골목에서 소똥이가 손을 흔들며 나를 쳐다보고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 89,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "...!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 90,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "소똥아!"
+				},
+				{
+					"type" : 0,
+					"index" : 91,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 바로 소똥이에게 달려갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 92,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "소똥이는 조금 수척해진 얼굴로 나를 보고 웃고 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 93,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "어떻게 된 거야?"
+				},
+				{
+					"type" : 0,
+					"index" : 94,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "별 일 없었고?"
+				},
+				{
+					"type" : 0,
+					"index" : 95,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "괜찮아?"
+				},
+				{
+					"type" : 0,
+					"index" : 96,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "소똥이는 쉴 틈 없이 물어보는 나를 보고, 웃으며 대답했다."
+				},
+				{
+					"type" : 0,
+					"index" : 97,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "괜찮아."
+				},
+				{
+					"type" : 0,
+					"index" : 98,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "별 일 없었어."
+				},
+				{
+					"type" : 0,
+					"index" : 99,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "정말?"
+				},
+				{
+					"type" : 0,
+					"index" : 100,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "그래."
+				},
+				{
+					"type" : 0,
+					"index" : 101,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "그나저나 지금 여기서 뭐하고 있는거야?"
+				},
+				{
+					"type" : 0,
+					"index" : 102,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "빨리 도망가."
+				},
+				{
+					"type" : 0,
+					"index" : 103,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "마님께서 널 찾으려고 난리가 났어."
+				},
+				{
+					"type" : 0,
+					"index" : 104,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "소똥이는 다급한 목소리로 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 105,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "마님이라..."
+				},
+				{
+					"type" : 0,
+					"index" : 106,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "갑자기 떠오른 과거의 기억에 두 눈을 질끈 감았다."
+				},
+				{
+					"type" : 0,
+					"index" : 107,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "그래야지"
+				},
+				{
+					"type" : 0,
+					"index" : 108,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "네가 어떻게 마련해준 기회인데."
+				},
+				{
+					"type" : 0,
+					"index" : 109,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 소똥이의 손을 두 손으로 감싸쥐었다."
+				},
+				{
+					"type" : 0,
+					"index" : 110,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "널 절대 잊지 않을거야..."
+				},
+				{
+					"type" : 0,
+					"index" : 111,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 눈물을 삼키며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 112,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "처음 들어왔을 때 부터 여러 가지로 정말 고마웠어.",
+					"sound" : "하늘그림_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 113,
+					"speaker" : "",
+					"sound" : "하늘그림_bgm",
+					"background_name" : "장터_밤",
+					"dialog" : "소똥이와 나의 눈물의 재회를 지켜보고 있던 안대례가 넌지시 물어왔다."
+				},
+				{
+					"type" : 2,
+					"index" : 114,
+					"speaker" : "안대례",
+					"background_name" : "장터_밤",
+					"event" : "quiz2"
+				},
+				{
+					"type" : 0,
+					"index" : 115,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : ".........."
+				},
+				{
+					"type" : 0,
+					"index" : 116,
+					"speaker" : "",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "아웅다웅하는 나와 안대례의 모습을 보던 소똥이가 아련하게 미소 지었다."
+				},
+				{
+					"type" : 0,
+					"index" : 117,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "잘 지내는 것 같네."
+				},
+				{
+					"type" : 0,
+					"index" : 118,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "그럼 난 이만 저녁시간이라 들어가볼게."
+				},
+				{
+					"type" : 0,
+					"index" : 119,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "자, 잠깐...!"
+				},
+				{
+					"type" : 0,
+					"index" : 120,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 떠나는 소똥이를 잡으려 했지만, 강한 힘으로 내 손목을 쥔 안대례 때문에 아무 것도 할 수 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 121,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "결국 소똥이는 골목으로 사라졌고, 안대례는 나를 보며 웃었다."
+				},
+				{
+					"type" : 0,
+					"index" : 122,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "smile",
+					"dialog" : "따라오시오."
+				},
+				{
+					"type" : 3,
+					"index" : 123,
+					"background_name" : "장터_밤"
+				},
+				{
+					"type" : 0,
+					"index" : 124,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "안대례는 화난 듯 내 손목을 강하게 잡았다."
+				},
+				{
+					"type" : 0,
+					"index" : 125,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "저녁시간인 듯한데, 주인집에 가봐야 되지 않겠소?"
+				},
+				{
+					"type" : 0,
+					"index" : 126,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "...",
+					"sound" : "노을_bgm"
+				},
+				{
+					"type" : 0,
+					"index" : 127,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "그럼 우린 가보도록 하지."
+				},
+				{
+					"type" : 0,
+					"index" : 128,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "안대례는 굳은 표정으로 내 손목을 잡아끌었다."
+				},
+				{
+					"type" : 0,
+					"index" : 129,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "어디로 가는 겁니까!"
+				},
+				{
+					"type" : 0,
+					"index" : 130,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "내가 소리쳤지만 안대례는 묵묵히 골목 안으로 들어갈 뿐이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 131,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "조용히 따라오시오. "
+				},
+				{
+					"type" : 0,
+					"index" : 132,
+					"speaker" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "날 화나게 만들어봐야 좋을 것 하나 없으니."
+				},
+				{
+					"type" : 0,
+					"index" : 133,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "갑자기 변한 안대례의 분위기에 주눅이 들었다."
+				},
+				{
+					"type" : 0,
+					"index" : 134,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "한참을 걸어 도착한 곳은 안대례의 집이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 135,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "안대례는 자연스럽게 집 안으로 들어가 별채에 나를 밀어 넣으며 소름끼치게 웃었다."
+				},
+				{
+					"type" : 0,
+					"index" : 136,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "smile",
+					"dialog" : "이제 아무 걱정 마시오."
+				},
+				{
+					"type" : 0,
+					"index" : 137,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "smile",
+					"dialog" : "내가 다 처리해줄 테니."
+				},
+				{
+					"type" : 0,
+					"index" : 138,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"expression" : "smile",
+					"dialog" : "안대례의 눈에서 빛이 사라졌다. 마치 인간의 눈이 아닌 듯, 독기를 품은 눈이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 139,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "낌새가 이상함을 느낀 나는 안대례를 멀리하고 뛰쳐나왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 140,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "뒤도 돌아보지 않고 달리다보니, 어느새 이름모를 곳에 도달해 있었다."
+				},
+				{
+					"type" : 0,
+					"index" : 141,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "어둑어둑하여 어디인지 알 수 없었지만 이 곳이 어디인지는 중요치 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 142,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "후우... 뿌리쳤나...?"
+				},
+				{
+					"type" : 0,
+					"index" : 143,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "더이상 안대례의 모습이 보이지 않게 되자 저절로 안도의 한숨이 나왔다."
+				},
+				{
+					"type" : 0,
+					"index" : 144,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "하지만 그 순간, 멀리서 익숙한 아녀자의 모습이 보였다."
+				},
+				{
+					"type" : 0,
+					"index" : 145,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "...?"
+				},
+				{
+					"type" : 0,
+					"index" : 146,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "설마... 마님...?"
+				},
+				{
+					"type" : 0,
+					"index" : 147,
+					"speaker" : "",
+					"character" : "자운영",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "저 멀찌감치에 서있는 마님과 그만 눈을 마주쳐버렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 148,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "이런 곳에 있었구나! 내 너를 어찌나 찾아다녔는지... 저놈을 당장 잡아오거라!"
+				},
+				{
+					"type" : 0,
+					"index" : 149,
+					"speaker" : "자운영",
+					"character" : "자운영",
+					"background_name" : "장터_밤",
+					"expression" : "angry",
+					"dialog" : "마님은 노비들에게 명령을 내려 나를 잡아오게 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 150,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "이런 곳에서 마님을? 안대례에서 달아난지 얼마 되지도 않았는데!"
+				},
+				{
+					"type" : 0,
+					"index" : 151,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 다시 마님에게 붙잡힐까 두려웠다."
+				},
+				{
+					"type" : 0,
+					"index" : 152,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "안돼! 다시 그때로 돌아갈 순 없어!"
+				},
+				{
+					"type" : 0,
+					"index" : 153,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 마님을 피해 정신없이 달리고 또 달렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 154,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "헉...헉....."
+				},
+				{
+					"type" : 0,
+					"index" : 155,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "으악!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 156,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "실성한듯이 달리던 나는 그만 발을 헛디뎌 넘어졌고, 그 순간 장독에 머리를 심하게 부딪혔다."
+				},
+				{
+					"type" : 0,
+					"index" : 157,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "세상이 빙글빙글 도는 것 같았고, 몸에서 점점 힘이 빠져나가는 듯 했다."
+				},
+				{
+					"type" : 0,
+					"index" : 158,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "으....으어..."
+				},
+				{
+					"type" : 0,
+					"index" : 159,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "민아..! 민아! 정신차려...!!"
+				},
+				{
+					"type" : 0,
+					"index" : 160,
+					"speaker" : "천민",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "하으.... 흐어...."
+				},
+				{
+					"type" : 0,
+					"index" : 161,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "누군가가 나를 부르는 소리가 들렸다."
+				},
+				{
+					"type" : 0,
+					"index" : 162,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "민아! 안돼!! 마님이 거의 쫓아오셨어! 어서 빨리 벗어나야해!!"
+				},
+				{
+					"type" : 0,
+					"index" : 163,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "점점 세상이 흐리게 보였다. 무언가 말소리가 들리지만 누가 말하는 것인지 알 수 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 164,
+					"speaker" : "소똥",
+					"character" : "소똥",
+					"background_name" : "장터_밤",
+					"dialog" : "아...안돼.... 민아... 너는 또 다시............"
+				},
+				{
+					"type" : 0,
+					"index" : 165,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "점점 목소리가 흐려져갔다. 그가 마지막으로 무엇이라고 말했는지 들리지 않았다."
+				},
+				{
+					"type" : 0,
+					"index" : 166,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "마지막으로 기억하는 것은...........나를...내려다보는......."
+				},
+				{
+					"type" : 0,
+					"index" : 167,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "마님이었던....것...같......."
+				},
+				{
+					"type" : 0,
+					"index" : 168,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "................"
+				},
+				{
+					"type" : 0,
+					"index" : 169,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "........."
+				},
+				{
+					"type" : 0,
+					"index" : 170,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "....."
+				},
+				{
+					"type" : 5,
+					"index" : 171,
+					"background_name" : "장터_밤",
+				},
+				{
+					"type" : 0,
+					"index" : 172,
+					"speaker" : "천민",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "대체 저에게 왜 이런 것을 물으시는 겁니까?"
+				},
+				{
+					"type" : 0,
+					"index" : 173,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "몰라서 그러는 것이오?"
+				},
+				{
+					"type" : 0,
+					"index" : 174,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "어찌 나를 눈앞에 두고 다른 사내와 다정하게 얘기를 할 수가 있단 말이오?!"
+				},
+				{
+					"type" : 0,
+					"index" : 175,
+					"speaker" : "???",
+					"background_name" : "장터_밤",
+					"dialog" : "시끄럽구나."
+				},
+				{
+					"type" : 0,
+					"index" : 176,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "어떤 놈이...!!!"
+				},
+				{
+					"type" : 0,
+					"index" : 177,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "갑자기 들려온 목소리의 주인을 확인한 안대례의 표정이 급격하게 굳기 시작했다."
+				},
+				{
+					"type" : 4,
+					"index" : 178,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : " "
+				}
+			]
+		},
+		{
+			"index" : 4,
+			"love_point" : 5,
+			"touch_point_max" : 400,
+			"sound" : "인연_bgm",
+			"sound_effect" : "button",
+			"Dialog" : 
+			[
+				{
+					"type" : 0,
+					"index" : 0,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "대화를 터치하세요."
+				},
+				{
+					"type" : 0,
+					"index" : 1,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "무슨 소란이냐.",
+				},
+				{
+					"type" : 0,
+					"index" : 2,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "surprise",
+					"background_name" : "장터_밤",
+					"dialog" : "전하...!"
+				},
+				{
+					"type" : 0,
+					"index" : 3,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "surprise",
+					"background_name" : "장터_밤",
+					"dialog" : "사색이 된 안대례가 갑자기 바닥에 무릎을 꿇고 절을 하기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 4,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "덩달아 옆에 있던 나까지 절을 할 수 밖에 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 5,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "전하라니..."
+				},
+				{
+					"type" : 0,
+					"index" : 6,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "그럼 설마 저 남자가 왕이라는 건가?!"
+				},
+				{
+					"type" : 0,
+					"index" : 7,
+					"speaker" : "",
+					"background_name" : "장터_밤",
+					"dialog" : "순간 궁에서 내관으로 일하고 있다는 안대례의 말이 떠올랐다."
+				},
+				{
+					"type" : 0,
+					"index" : 8,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "쯧."
+				},
+				{
+					"type" : 0,
+					"index" : 9,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "일어나거라."
+				},
+				{
+					"type" : 0,
+					"index" : 10,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "짜증어린 목소리가 들리자 안대례는 몸을 일으켰다."
+				},
+				{
+					"type" : 0,
+					"index" : 11,
+					"speaker" : "",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "나 역시 엉거주춤 일어나 안대례의 뒤에 몸을 숨겼다."
+				},
+				{
+					"type" : 0,
+					"index" : 12,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "surprise",
+					"background_name" : "장터_밤",
+					"dialog" : "전... 아니, 나으리."
+				},
+				{
+					"type" : 0,
+					"index" : 13,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "이제 돌아가시지요."
+				},
+				{
+					"type" : 0,
+					"index" : 14,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "angry",
+					"background_name" : "장터_밤",
+					"dialog" : "오랜만의 잠행인데 벌써 돌아가라니."
+				},
+				{
+					"type" : 0,
+					"index" : 15,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "게다가 아직 술이 남지 않았느냐?"
+				},
+				{
+					"type" : 0,
+					"index" : 16,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "한량의 차림을 한 왕은 술병을 든 채 웃으며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 17,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "하오나..."
+				},
+				{
+					"type" : 0,
+					"index" : 18,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "헌데, 저 자는 누구냐?"
+				},
+				{
+					"type" : 0,
+					"index" : 19,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "왕은 눈을 가늘게 뜨며 나를 바라봤다."
+				},
+				{
+					"type" : 0,
+					"index" : 20,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "안대례는 난감한 듯 말을 하지 못했지만, 왕이 나를 뚫어져라 쳐다보자 어쩔 수 없다는 듯 자신의 뒤에 숨어있는 나를 소개했다."
+				},
+				{
+					"type" : 0,
+					"index" : 21,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "천민이라는 자입니다."
+				},
+				{
+					"type" : 0,
+					"index" : 22,
+					"speaker" : "안대례",
+					"character" : "안대례",
+					"expression" : "sad",
+					"background_name" : "장터_밤",
+					"dialog" : "노비출신인 듯 한데, 제가 신세를 진 일이 있어..."
+				},
+				{
+					"type" : 0,
+					"index" : 23,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "흐음..."
+				},
+				{
+					"type" : 0,
+					"index" : 24,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "장터_밤",
+					"dialog" : "왕은 나를 위아래로 훑어보며 뭔가를 골똘히 생각했다."
+				},
+				{
+					"type" : 0,
+					"index" : 25,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "먼저 돌아가있거라."
+				},
+				{
+					"type" : 0,
+					"index" : 26,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 조금 더 마시고 갈 테니."
+				},
+				{
+					"type" : 0,
+					"index" : 27,
+					"speaker" : "천민",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "으악?!"
+				},
+				{
+					"type" : 0,
+					"index" : 28,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "갑자기 내 손목을 잡은 왕이 나를 끌고 길을 걷기 시작했다."
+				},
+				{
+					"type" : 0,
+					"index" : 29,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "나는 내 손을 잡아끄는 강한 힘에 질질 끌려갈 수밖에 없었다."
+				},
+				{
+					"type" : 0,
+					"index" : 30,
+					"speaker" : "",
+					"character" : "안대례",
+					"background_name" : "장터_밤",
+					"dialog" : "안대례는 망연자실한 표정으로 제 자리에 서서 나를 바라보고 있을 뿐이었다."
+				},
+				{
+					"type" : 0,
+					"index" : 31,
+					"speaker" : "천민",
+					"background_name" : "장터_밤",
+					"dialog" : "저... 저.... 전하...?"
+				},
+				{
+					"type" : 0,
+					"index" : 32,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "장터_밤",
+					"dialog" : "내가 말을 더듬으며 자신을 부르자, 왕은 웃으며 말했다."
+				},
+				{
+					"type" : 0,
+					"index" : 33,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "장터_밤",
+					"dialog" : "나으리라 부르거라."
+				},
+				{
+					"type" : 0,
+					"index" : 34,
+					"speaker" : "천민",
+					"background_name" : "팔각정",
+					"dialog" : "나... 나으리, 이곳은...?"
+				},
+				{
+					"type" : 0,
+					"index" : 35,
+					"speaker" : "",
+					"background_name" : "팔각정",
+					"dialog" : "나으리를 따라 도착한 곳은 큰 호숫가였다."
+				},
+				{
+					"type" : 0,
+					"index" : 36,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 내 손을 잡아끌고 근처 정자에 올라 자리를 잡았다."
+				},
+				{
+					"type" : 0,
+					"index" : 37,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "나으리가 빈 술잔을 나에게 내밀었다.",
+					"sound" : "5백억년전별빛_bgm"
+				},
+				{
+					"type" : 1,
+					"index" : 38,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 술을 가득 따라준다",
+					"select_type" : 0,
+					"change" : 41
+				},
+				{
+					"type" : 1,
+					"index" : 39,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 술을 반만 따라준다 ",
+					"select_type" : 1,
+					"change" : 41
+				},
+				{
+					"type" : 1,
+					"index" : 40,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 넘치도록 술을 따라준다",
+					"select_type" : 1,
+					"change" : 41
+				},
+				{
+					"type" : 0,
+					"index" : 41,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "단숨에 술을 넘긴 나으리가 다시 술잔을 내밀었다."
+				},
+				{
+					"type" : 1,
+					"index" : 42,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 술을 가득 따라준다",
+					"select_type" : 1,
+					"change" : 45
+				},
+				{
+					"type" : 1,
+					"index" : 43,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 술을 반만 따라준다",
+					"select_type" : 1,
+					"change" : 45
+				},
+				{
+					"type" : 1,
+					"index" : 44,
+					"background_name" : "팔각정",
+					"dialog" : "술잔에 넘치도록 술을 따라준다",
+					"select_type" : 0,
+					"change" : 45
+				},
+				{
+					"type" : 0,
+					"index" : 45,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "술잔을 비운 나으리가 웃으며 술병을 나에게로 쓰러트렸다."
+				},
+				{
+					"type" : 1,
+					"index" : 46,
+					"background_name" : "팔각정",
+					"dialog" : "인상을 찌푸린다",
+					"select_type" : 1,
+					"change" : 49
+				},
+				{
+					"type" : 1,
+					"index" : 47,
+					"background_name" : "팔각정",
+					"dialog" : "아무렇지도 않다는 듯 웃는다",
+					"select_type" : 1,
+					"change" : 49
+				},
+				{
+					"type" : 1,
+					"index" : 48,
+					"background_name" : "팔각정",
+					"dialog" : "나으리에게 술이 튀었는지 확인한다",
+					"select_type" : 0,
+					"change" : 49
+				},
+				{
+					"type" : 0,
+					"index" : 49,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "옷이 많이 젖었구나."
+				},
+				{
+					"type" : 1,
+					"index" : 50,
+					"background_name" : "팔각정",
+					"dialog" : "일 없습메다",
+					"select_type" : 1,
+					"change" : 53
+				},
+				{
+					"type" : 1,
+					"index" : 51,
+					"background_name" : "팔각정",
+					"dialog" : "하나도 안 젖었습니다",
+					"select_type" : 1,
+					"change" : 53
+				},
+				{
+					"type" : 1,
+					"index" : 52,
+					"background_name" : "팔각정",
+					"dialog" : "별로 안 젖었습니다",
+					"select_type" : 0,
+					"change" : 53
+				},
+				{
+					"type" : 0,
+					"index" : 53,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "나으리가 점점 나에게 다가왔다."
+				},
+				{
+					"type" : 1,
+					"index" : 54,
+					"background_name" : "팔각정",
+					"dialog" : "가만히 있는다",
+					"select_type" : 0,
+					"change" : 57
+				},
+				{
+					"type" : 1,
+					"index" : 55,
+					"background_name" : "팔각정",
+					"dialog" : "다소곳이 있는다",
+					"select_type" : 1,
+					"change" : 57
+				},
+				{
+					"type" : 1,
+					"index" : 56,
+					"background_name" : "팔각정",
+					"dialog" : "꼼짝 않고 있는다",
+					"select_type" : 1,
+					"change" : 57
+				},
+				{
+					"type" : 0,
+					"index" : 57,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "shame",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 내 얼굴을 손으로 쓰다듬었다."
+				},
+				{
+					"type" : 1,
+					"index" : 58,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손길을 느낀다",
+					"select_type" : 1,
+					"change" : 61
+				},
+				{
+					"type" : 1,
+					"index" : 59,
+					"background_name" : "팔각정",
+					"dialog" : "눈을 감고 나으리의 손길을 느낀다",
+					"select_type" : 1,
+					"change" : 61
+				},
+				{
+					"type" : 1,
+					"index" : 60,
+					"background_name" : "팔각정",
+					"dialog" : "눈을 감고, 온 몸의 신경을 곤두세워 나으리의 손길을 느낀다",
+					"select_type" : 0,
+					"change" : 61
+				},
+				{
+					"type" : 0,
+					"index" : 61,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "shame",
+					"background_name" : "팔각정",
+					"dialog" : "내 얼굴을 쓰다듬던 손이 옷고름으로 내려갔다."
+				},
+				{
+					"type" : 0,
+					"index" : 62,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "나으리가 옷고름을 서서히 당겼다."
+				},
+				{
+					"type" : 1,
+					"index" : 63,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 뺨을 때린다",
+					"select_type" : 1,
+					"change" : 66
+				},
+				{
+					"type" : 1,
+					"index" : 64,
+					"background_name" : "팔각정",
+					"dialog" : "귓방망이를 올려붙인다.",
+					"select_type" : 0,
+					"change" : 66
+				},
+				{
+					"type" : 1,
+					"index" : 65,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 싸대기를 때린다",
+					"select_type" : 1,
+					"change" : 66
+				},
+				{
+					"type" : 0,
+					"index" : 66,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "쿸..."
+				},
+				{
+					"type" : 0,
+					"index" : 67,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "지금 날 때린 건가...?"
+				},
+				{
+					"type" : 1,
+					"index" : 68,
+					"background_name" : "팔각정",
+					"dialog" : "맞아요",
+					"select_type" : 1,
+					"change" : 71
+				},
+				{
+					"type" : 1,
+					"index" : 69,
+					"background_name" : "팔각정",
+					"dialog" : "그런데요?",
+					"select_type" : 1,
+					"change" : 71
+				},
+				{
+					"type" : 1,
+					"index" : 70,
+					"background_name" : "팔각정",
+					"dialog" : "왜요, 때리면 안돼요?",
+					"select_type" : 0,
+					"change" : 71
+				},
+				{
+					"type" : 0,
+					"index" : 71,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "그것도 왼손으로 내 왼뺨을 때리다니... 쿸..."
+				},
+				{
+					"type" : 1,
+					"index" : 72,
+					"background_name" : "팔각정",
+					"dialog" : "어리둥절해한다",
+					"select_type" : 0,
+					"change" : 75
+				},
+				{
+					"type" : 1,
+					"index" : 73,
+					"background_name" : "팔각정",
+					"dialog" : "영문 모를 표정을 짓는다",
+					"select_type" : 1,
+					"change" : 75
+				},
+				{
+					"type" : 1,
+					"index" : 74,
+					"background_name" : "팔각정",
+					"dialog" : "고개를 갸우뚱한다",
+					"select_type" : 1,
+					"change" : 75
+				},
+				{
+					"type" : 0,
+					"index" : 75,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "이 방법은 왕족 대대로 은밀히 전수되는 구애방법인데..."
+				},
+				{
+					"type" : 0,
+					"index" : 76,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "shame",
+					"background_name" : "팔각정",
+					"dialog" : "이런 방법으로 나에게 접근한 사람은 네가 처음이야."
+				},
+				{
+					"type" : 1,
+					"index" : 77,
+					"background_name" : "팔각정",
+					"dialog" : "그... 그게 무슨 소리에요...?!",
+					"select_type" : 1,
+					"change" : 80
+				},
+				{
+					"type" : 1,
+					"index" : 78,
+					"background_name" : "팔각정",
+					"dialog" : "그... 그게 무슨 말이에요...?!",
+					"select_type" : 0,
+					"change" : 80
+				},
+				{
+					"type" : 1,
+					"index" : 79,
+					"background_name" : "팔각정",
+					"dialog" : "그... 그게 무슨 얘기에요...?!",
+					"select_type" : 1,
+					"change" : 80
+				},
+				{
+					"type" : 0,
+					"index" : 80,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "새롭군."
+				},
+				{
+					"type" : 0,
+					"index" : 81,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "좋아. 넘어가주지."
+				},
+				{
+					"type" : 0,
+					"index" : 82,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 거칠게 내 옷고름을 풀었다."
+				},
+				{
+					"type" : 1,
+					"index" : 83,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손을 잡는다",
+					"select_type" : 1,
+					"change" : 86
+				},
+				{
+					"type" : 1,
+					"index" : 84,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 팔을 잡는다",
+					"select_type" : 1,
+					"change" : 86
+				},
+				{
+					"type" : 1,
+					"index" : 85,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 팔뚝을 잡는다",
+					"select_type" : 0,
+					"change" : 86
+				},
+				{
+					"type" : 0,
+					"index" : 86,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 내 손을 무시한 채로 거침없이 상의를 벗겼다."
+				},
+				{
+					"type" : 1,
+					"index" : 87,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손길을 느낀다",
+					"select_type" : 1,
+					"change" : 90
+				},
+				{
+					"type" : 1,
+					"index" : 88,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손힘을 느낀다",
+					"select_type" : 1,
+					"change" : 90
+				},
+				{
+					"type" : 1,
+					"index" : 89,
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손가락을 느낀다",
+					"select_type" : 0,
+					"change" : 90
+				},
+				{
+					"type" : 0,
+					"index" : 90,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "좋으면서 튕기기는."
+				},
+				{
+					"type" : 1,
+					"index" : 91,
+					"background_name" : "팔각정",
+					"dialog" : "그, 그게 아니라...!",
+					"select_type" : 1,
+					"change" : 94
+				},
+				{
+					"type" : 1,
+					"index" : 92,
+					"background_name" : "팔각정",
+					"dialog" : "그... 그것이 아니오라...!",
+					"select_type" : 1,
+					"change" : 94
+				},
+				{
+					"type" : 1,
+					"index" : 93,
+					"background_name" : "팔각정",
+					"dialog" : "그... 그것이...!",
+					"select_type" : 0,
+					"change" : 94
+				},
+				{
+					"type" : 0,
+					"index" : 94,
+					"speaker" : "",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "나으리의 손길이 더욱 농밀하게 내 살결을 어루만졌다."
+				},
+				{
+					"type" : 1,
+					"index" : 95,
+					"background_name" : "팔각정",
+					"dialog" : "오예...!!",
+					"select_type" : 1,
+					"change" : 98
+				},
+				{
+					"type" : 1,
+					"index" : 96,
+					"background_name" : "팔각정",
+					"dialog" : "음오~~",
+					"select_type" : 1,
+					"change" : 98
+				},
+				{
+					"type" : 1,
+					"index" : 97,
+					"background_name" : "팔각정",
+					"dialog" : "아예~♡",
+					"select_type" : 0,
+					"change" : 98
+				},
+				{
+					"type" : 0,
+					"index" : 98,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "신분상승 한 번 해볼테냐?"
+				},
+				{
+					"type" : 1,
+					"index" : 99,
+					"background_name" : "팔각정",
+					"dialog" : "눈을 마주치며 웃는다",
+					"select_type" : 1,
+					"change" : 102
+				},
+				{
+					"type" : 1,
+					"index" : 100,
+					"background_name" : "팔각정",
+					"dialog" : "옷고름을 입에 물고 유혹한다",
+					"select_type" : 1,
+					"change" : 102
+				},
+				{
+					"type" : 1,
+					"index" : 101,
+					"background_name" : "팔각정",
+					"dialog" : "눈을 피하며 부끄러워한다",
+					"select_type" : 0,
+					"change" : 102
+				},
+				{
+					"type" : 0,
+					"index" : 102,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "흐응",
+				},
+				{
+					"type" : 0,
+					"index" : 103,
+					"speaker" : "",
+					"background_name" : "팔각정",
+					"dialog" : "나으리에게서 시큰둥한 기색이 보였다",
+				},
+				{
+					"type" : 0,
+					"index" : 104,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "성에 차지 않는구나",
+				},
+				{
+					"type" : 0,
+					"index" : 105,
+					"speaker" : "천민",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "예...?"
+				},
+				{
+					"type" : 0,
+					"index" : 106,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : "성에 차지 않는다 하였다. 아무래도 너에게 나는 과분하였나 보구나.",
+				},
+				{
+					"type" : 0,
+					"index" : 107,
+					"speaker" : "천민",
+					"character" : "이왕",
+					"expression" : "serious",
+					"background_name" : "팔각정",
+					"dialog" : ".........."
+				},
+				{
+					"type" : 0,
+					"index" : 108,
+					"speaker" : "",
+					"background_name" : "팔각정",
+					"dialog" : "나는 말을 잇지 못하였다. 모두 맞는 말이었기 때문이다."
+				},
+				{
+					"type" : 0,
+					"index" : 109,
+					"speaker" : "이왕",
+					"character" : "이왕",
+					"background_name" : "팔각정",
+					"dialog" : "실망한 눈치로구나. 하지만 맞지 않는다면 맞추면 되는 것이거늘..."
+				},
+				{
+					"type" : 0,
+					"index" : 110,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "smile",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 뜨거운 눈빛으로 나를 바라보았다"
+				},
+				{
+					"type" : 0,
+					"index" : 111,
+					"speaker" : "",
+					"background_name" : "팔각정",
+					"dialog" : "그리고......"
+				},
+				{
+					"type" : 3,
+					"index" : 112,
+					"speaker" : "",
+					"background_name" : "팔각정",
+				},
+				{
+					"type" : 0,
+					"index" : 113,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "angry",
+					"background_name" : "팔각정",
+					"dialog" : "나으리는 섬짓한 눈빛으로 나를 바라보았다"
+				},
+				{
+					"type" : 0,
+					"index" : 114,
+					"speaker" : "",
+					"character" : "이왕",
+					"expression" : "angry",
+					"background_name" : "팔각정",
+					"dialog" : "그리고......"
+				},
+				{
+					"type" : 3,
+					"index" : 115,
+					"speaker" : "",
+					"background_name" : "팔각정",
+				},
+			]
+		}
+	]
+}

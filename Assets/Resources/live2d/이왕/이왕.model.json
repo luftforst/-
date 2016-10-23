@@ -1,0 +1,64 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"이왕.moc",
+	"textures":
+	[
+		"이왕.2048/texture_00.png",
+		"이왕.2048/texture_01.png"
+	],
+	"hit_areas": 
+	[
+        { "name": "head", "id": "D_FACE_001.00" }, 
+		{ "name": "hair", "id": "D_HAIR_FRONT_001.00" }, 
+        { "name": "body", "id": "D_body.01" },
+        { "name": "arm_right", "id": "D_PSD.30" }, 
+        { "name": "arm_left", "id": "D_PSD.27" },
+		{ "name": "leg", "id": "D_PSD.19" },
+		{ "name": "tap_shoulder_left", "id": "D_PSD.33" },
+		{ "name": "tap_shoulder_right", "id": "D_PSD.32" }
+    ],
+	"motions":{
+		"idle":[
+			{"file":"motions/idle_1.mtn"},
+			{"file":"motions/idle_2.mtn"},
+			{"file":"motions/idle_3.mtn"}
+		],
+        "serious": [
+            { "file": "motions/serious_1.mtn" },
+            { "file": "motions/serious_2.mtn" },
+            { "file": "motions/serious_3.mtn" }
+        ],
+        "smile": [
+			{"file":"motions/happy.mtn"},
+            { "file": "motions/smile_shake.mtn" },
+            { "file": "motions/smile.mtn" },
+			{"file":"motions/ok.mtn"}
+        ],
+        "angry": [
+            { "file": "motions/angry.mtn" },
+            { "file": "motions/doubt.mtn" }
+        ],
+        "shame": [
+            { "file": "motions/shame.mtn" }
+        ],
+        "talk": [
+            {"file":"motions/talk_2.mtn"},
+			{"file":"motions/talk_3.mtn"},
+            { "file": "motions/talk_5.mtn" },
+            { "file": "motions/talk_6.mtn" }
+        ],
+		"refuse":[
+			{"file":"motions/shake_1.mtn"},
+			{"file":"motions/shake_2.mtn"},	
+			{"file":"motions/refuse.mtn"}
+		],
+		"sad":[
+			{"file":"motions/sad.mtn"}
+		],
+		"suprise":[
+			{"file":"motions/surprise.mtn"}
+		]
+	},
+	"physics":"이왕.physics.json",
+	"pose":"이왕.pose.json"
+}

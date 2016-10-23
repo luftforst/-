@@ -1,0 +1,91 @@
+{
+	"key" :
+	[
+		{
+			"success_point" : 100,
+			"success_page" : 41
+		},
+		{
+			"fail_point" : -70,
+			"fail_page" : 41
+		}
+	],
+	
+	"hip_name" :
+	[
+		{
+			"success_point" : 250,
+			"success_page" : 60
+		},
+		{
+			"fail_point" : -100,
+			"fail_page" : 60
+		}
+	],
+	"finger" :
+	[
+		{
+			"success_point" : 150,
+			"success_page" : 81
+		},
+		{
+			"fail_point" : -100,
+			"fail_page" : 81
+		}
+	],
+	"quiz1" :
+	[
+		{
+			"success_point" : 120,
+			"success_page" : 105
+		},
+		{
+			"fail_point" : -90,
+			"fail_page" : 105
+		}
+	],
+	"escape" :
+	[
+		{
+			"success_point" : 100,
+			"success_page" : 121
+		},
+		{
+			"fail_point" : -70,
+			"fail_page" : 121
+		}
+	],
+	"smash" :
+	[
+		{
+			"success_point" : 180,
+			"success_page" : 144
+		},
+		{
+			"fail_point" : -150,
+			"fail_page" : 133
+		}
+	],	
+	"remove" :
+	[
+		{
+			"success_point" : 170,
+			"success_page" : 69
+		},
+		{
+			"fail_point" : -140,
+			"fail_page" : 73
+		}
+	],
+	"quiz2" :
+	[
+		{
+			"success_point" : 230,
+			"success_page" : 114
+		},
+		{
+			"fail_point" : -200,
+			"fail_page" : 114
+		}
+	]
+}
